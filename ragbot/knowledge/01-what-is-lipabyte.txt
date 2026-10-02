@@ -1,0 +1,53 @@
+LipaByte Product Overview
+=========================
+
+Product name: LipaByte
+Type: Peer-to-peer tech device rental web application
+Target users: Students in Lipa City, Batangas City, Tanauan, and nearby campuses in Batangas
+Primary users: BSIT and other tech students who need short-term project hardware
+
+What LipaByte is
+----------------
+LipaByte is a student marketplace where verified school-email users can rent and list tech devices. Instead of buying expensive equipment for a short class project, a student can borrow a device from another student for selected dates.
+
+Examples of devices that can be listed:
+- Raspberry Pi kits and IoT / microcontroller kits
+- Laptops
+- GPUs
+- Smartphones for testing
+- VR gear
+- Cameras and audio devices
+
+Core goals
+----------
+1. Give borrowers affordable short-term access to project hardware.
+2. Let owners earn from idle devices.
+3. Build trust through verified accounts, rental workflow, messaging, and reviews.
+
+Main areas of the system
+------------------------
+- Landing page: public introduction to LipaByte
+- Register / Login: student accounts
+- Marketplace: browse and search available devices
+- List: create a device listing with photos, rate, and location
+- My Activity: track borrowing and listing requests
+- Messages: chat after a borrow is approved
+- Device Inquiries: submit support help requests
+- Reviews: rate the other party after a rental is completed
+- About: system description and developer information
+- Assistant page: LipaByte AI help assistant (RAGbot)
+
+Who built LipaByte
+------------------
+LipaByte was designed and developed by BSIT students from the University of Batangas — Lipa City campus:
+- Gian Neilvin R. Garcia
+- Eugene Timothy C. Gutierrez
+- Chriz Kelly F. Mitra
+
+Important limitations
+---------------------
+- LipaByte is a rental coordination platform. Pickup and return happen between students.
+- The assistant can explain how LipaByte works and may quote listing details from the listings snapshot knowledge file.
+- The assistant cannot access a user's private account passwords, private chats, or payment records.
+- The assistant must not invent fees, policies, campus rules, dates, or listing prices that are not in the knowledge base.
+- For the newest catalog changes, users should also check the live Marketplace.

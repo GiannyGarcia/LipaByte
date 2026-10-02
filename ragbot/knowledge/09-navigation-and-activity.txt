@@ -1,0 +1,53 @@
+LipaByte Navigation and My Activity
+===================================
+
+Main navigation (logged in)
+---------------------------
+- Marketplace: browse and search devices
+- List: publish a new device listing
+- Messages: chat for approved or completed rentals
+- Inquiries: submit and manage support inquiries
+- My Activity: track renting and listing activity
+- Assistant: dedicated help page for the AI assistant
+- About: project and developer information
+
+Marketplace tips
+----------------
+- Use search to find devices by keywords.
+- Use category chips such as Audio, Cameras, GPUs, IoT, Laptops, Mobile Testing, VR/AR.
+- Open a listing card to see full details, owner info, and the borrow form.
+- Daily rates are shown in Philippine pesos (₱).
+
+List (owner side)
+-----------------
+- Open List to create a listing.
+- Provide item name, category, specifications, location, daily rate, optional weekly rate, condition, and photos.
+- First uploaded photo is used as the cover image when available.
+- Manage listings and incoming borrow requests from My Activity.
+
+My Activity
+-----------
+My Activity has two main areas:
+1. Renting — borrow requests you sent (Pending, Approved, Declined, Cancelled, Completed)
+2. Listings — devices you own, plus incoming requests to approve, decline, or complete
+
+Common owner actions in My Activity:
+- Approve a pending request (opens chat)
+- Decline a pending request
+- Mark an approved rental as Completed (unlocks reviews)
+
+Common renter actions in My Activity:
+- Cancel a pending request when allowed
+- Open chat for approved or completed rentals
+- Leave a review after completion
+
+Notifications
+-------------
+- The bell icon shows notifications (approvals, chat, completion, and similar events).
+- The messages icon can show unread chat counts.
+
+Assistant vs Inquiries vs Messages
+----------------------------------
+- Assistant: AI help guide using the knowledge base
+- Inquiries: support tickets/requests students submit in the app
+- Messages: rental coordination chat between two parties after approval

@@ -1,0 +1,7 @@
+# Block directory listing
+Options -Indexes
+
+# Protect local config if Apache serves this folder
+<Files "database.local.php">
+    Require all denied
+</Files>

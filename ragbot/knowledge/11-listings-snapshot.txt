@@ -1,0 +1,539 @@
+LipaByte Marketplace Listings Snapshot
+======================================
+
+Generated at: 2026-09-24 12:43:24 CEST
+Source: XAMPP (database.xampp.php)
+Total listings: 502
+Currency: Philippine Peso (PHP)
+
+How to read each line:
+ID | Item name | Category | Daily rate | Weekly rate | Location | Status | Condition
+
+Assistant rules:
+- Quote only listings shown below.
+- If an item is missing, say it is not in this snapshot and suggest Marketplace.
+- Do not invent prices.
+
+CATEGORY: Audio
+---------------
+#30 | Blue Yeti Mic #120 | Audio | PHP 85.00/day | weekly PHP 510.00 | Ibaan, Batangas | Pending | Like New
+#170 | Blue Yeti Mic #260 | Audio | PHP 85.00/day | weekly PHP 510.00 | Malvar, Batangas | Available | Like New
+#310 | Blue Yeti Mic #400 | Audio | PHP 85.00/day | weekly PHP 510.00 | Lipa City, Batangas | Rented | Like New
+#450 | Blue Yeti Mic #540 | Audio | PHP 85.00/day | weekly PHP 510.00 | Ibaan, Batangas | Available | Like New
+#135 | Audio-Technica AT2020 #225 | Audio | PHP 90.00/day | weekly PHP 570.00 | Mataas na Kahoy, Batangas | Available | Good
+#275 | Audio-Technica AT2020 #365 | Audio | PHP 90.00/day | weekly PHP 570.00 | Batangas City | Available | Good
+#415 | Audio-Technica AT2020 #505 | Audio | PHP 90.00/day | weekly PHP 570.00 | Padre Garcia, Batangas | Available | Good
+#86 | Blue Yeti Mic #176 | Audio | PHP 90.00/day | weekly PHP 510.00 | Malvar, Batangas | Available | Like New
+#226 | Blue Yeti Mic #316 | Audio | PHP 90.00/day | weekly PHP 510.00 | Lipa City, Batangas | Available | Like New
+#366 | Blue Yeti Mic #456 | Audio | PHP 90.00/day | weekly PHP 510.00 | Ibaan, Batangas | Available | Like New
+#506 | Blue Yeti Mic #596 | Audio | PHP 90.00/day | weekly PHP 510.00 | Malvar, Batangas | Available | Like New
+#51 | Audio-Technica AT2020 #141 | Audio | PHP 95.00/day | weekly PHP 570.00 | Mataas na Kahoy, Batangas | Available | Good
+#191 | Audio-Technica AT2020 #281 | Audio | PHP 95.00/day | weekly PHP 570.00 | Batangas City | Available | Good
+#331 | Audio-Technica AT2020 #421 | Audio | PHP 95.00/day | weekly PHP 570.00 | Padre Garcia, Batangas | Available | Good
+#471 | Audio-Technica AT2020 #561 | Audio | PHP 95.00/day | weekly PHP 570.00 | Mataas na Kahoy, Batangas | Available | Good
+#142 | Blue Yeti Mic #232 | Audio | PHP 95.00/day | weekly PHP 510.00 | Lipa City, Batangas | Available | Like New
+#282 | Blue Yeti Mic #372 | Audio | PHP 95.00/day | weekly PHP 510.00 | Ibaan, Batangas | Available | Like New
+#422 | Blue Yeti Mic #512 | Audio | PHP 95.00/day | weekly PHP 510.00 | Malvar, Batangas | Available | Like New
+#65 | Rode VideoMic #155 | Audio | PHP 95.00/day | weekly PHP 630.00 | Rosario, Batangas | Available | 
+#205 | Rode VideoMic #295 | Audio | PHP 95.00/day | weekly PHP 630.00 | Santo Tomas, Batangas | Available | 
+#345 | Rode VideoMic #435 | Audio | PHP 95.00/day | weekly PHP 630.00 | Talisay, Batangas | Available | 
+#485 | Rode VideoMic #575 | Audio | PHP 95.00/day | weekly PHP 630.00 | Rosario, Batangas | Pending | 
+#107 | Audio-Technica AT2020 #197 | Audio | PHP 100.00/day | weekly PHP 570.00 | Batangas City | Available | Good
+#247 | Audio-Technica AT2020 #337 | Audio | PHP 100.00/day | weekly PHP 570.00 | Padre Garcia, Batangas | Pending | Good
+#387 | Audio-Technica AT2020 #477 | Audio | PHP 100.00/day | weekly PHP 570.00 | Mataas na Kahoy, Batangas | Available | Good
+#58 | Blue Yeti Mic #148 | Audio | PHP 100.00/day | weekly PHP 510.00 | Lipa City, Batangas | Available | Like New
+#198 | Blue Yeti Mic #288 | Audio | PHP 100.00/day | weekly PHP 510.00 | Ibaan, Batangas | Available | Like New
+#338 | Blue Yeti Mic #428 | Audio | PHP 100.00/day | weekly PHP 510.00 | Malvar, Batangas | Available | Like New
+#478 | Blue Yeti Mic #568 | Audio | PHP 100.00/day | weekly PHP 510.00 | Lipa City, Batangas | Available | Like New
+#121 | Rode VideoMic #211 | Audio | PHP 100.00/day | weekly PHP 630.00 | Santo Tomas, Batangas | Available | 
+#261 | Rode VideoMic #351 | Audio | PHP 100.00/day | weekly PHP 630.00 | Talisay, Batangas | Available | 
+#401 | Rode VideoMic #491 | Audio | PHP 100.00/day | weekly PHP 630.00 | Rosario, Batangas | Available | 
+#23 | Audio-Technica AT2020 #113 | Audio | PHP 105.00/day | weekly PHP 570.00 | Batangas City | Pending | Good
+#163 | Audio-Technica AT2020 #253 | Audio | PHP 105.00/day | weekly PHP 570.00 | Padre Garcia, Batangas | Available | Good
+#303 | Audio-Technica AT2020 #393 | Audio | PHP 105.00/day | weekly PHP 570.00 | Mataas na Kahoy, Batangas | Available | Good
+#443 | Audio-Technica AT2020 #533 | Audio | PHP 105.00/day | weekly PHP 570.00 | Batangas City | Available | Good
+#114 | Blue Yeti Mic #204 | Audio | PHP 105.00/day | weekly PHP 510.00 | Ibaan, Batangas | Available | Like New
+#254 | Blue Yeti Mic #344 | Audio | PHP 105.00/day | weekly PHP 510.00 | Malvar, Batangas | Available | Like New
+#394 | Blue Yeti Mic #484 | Audio | PHP 105.00/day | weekly PHP 510.00 | Lipa City, Batangas | Available | Like New
+#37 | Rode VideoMic #127 | Audio | PHP 105.00/day | weekly PHP 630.00 | Santo Tomas, Batangas | Available | 
+#177 | Rode VideoMic #267 | Audio | PHP 105.00/day | weekly PHP 630.00 | Talisay, Batangas | Available | 
+#317 | Rode VideoMic #407 | Audio | PHP 105.00/day | weekly PHP 630.00 | Rosario, Batangas | Available | 
+#457 | Rode VideoMic #547 | Audio | PHP 105.00/day | weekly PHP 630.00 | Santo Tomas, Batangas | Available | 
+#79 | Audio-Technica AT2020 #169 | Audio | PHP 110.00/day | weekly PHP 570.00 | Padre Garcia, Batangas | Rented | Good
+#219 | Audio-Technica AT2020 #309 | Audio | PHP 110.00/day | weekly PHP 570.00 | Mataas na Kahoy, Batangas | Available | Good
+#359 | Audio-Technica AT2020 #449 | Audio | PHP 110.00/day | weekly PHP 570.00 | Batangas City | Available | Good
+#499 | Audio-Technica AT2020 #589 | Audio | PHP 110.00/day | weekly PHP 570.00 | Padre Garcia, Batangas | Available | Good
+#100 | Focusrite Scarlett 2i2 #190 | Audio | PHP 110.00/day | weekly PHP 700.00 | San Jose, Batangas | Pending | Fair
+#240 | Focusrite Scarlett 2i2 #330 | Audio | PHP 110.00/day | weekly PHP 700.00 | Tanauan City, Batangas | Available | Fair
+#380 | Focusrite Scarlett 2i2 #470 | Audio | PHP 110.00/day | weekly PHP 700.00 | Balete, Batangas | Available | Fair
+#93 | Rode VideoMic #183 | Audio | PHP 110.00/day | weekly PHP 630.00 | Talisay, Batangas | Available | 
+#233 | Rode VideoMic #323 | Audio | PHP 110.00/day | weekly PHP 630.00 | Rosario, Batangas | Pending | 
+#373 | Rode VideoMic #463 | Audio | PHP 110.00/day | weekly PHP 630.00 | Santo Tomas, Batangas | Available | 
+#16 | Focusrite Scarlett 2i2 #106 | Audio | PHP 115.00/day | weekly PHP 700.00 | San Jose, Batangas | Available | Fair
+#156 | Focusrite Scarlett 2i2 #246 | Audio | PHP 115.00/day | weekly PHP 700.00 | Tanauan City, Batangas | Available | Fair
+#296 | Focusrite Scarlett 2i2 #386 | Audio | PHP 115.00/day | weekly PHP 700.00 | Balete, Batangas | Available | Fair
+#436 | Focusrite Scarlett 2i2 #526 | Audio | PHP 115.00/day | weekly PHP 700.00 | San Jose, Batangas | Available | Fair
+#149 | Rode VideoMic #239 | Audio | PHP 115.00/day | weekly PHP 630.00 | Rosario, Batangas | Available | 
+#289 | Rode VideoMic #379 | Audio | PHP 115.00/day | weekly PHP 630.00 | Santo Tomas, Batangas | Available | 
+#429 | Rode VideoMic #519 | Audio | PHP 115.00/day | weekly PHP 630.00 | Talisay, Batangas | Available | 
+#72 | Focusrite Scarlett 2i2 #162 | Audio | PHP 120.00/day | weekly PHP 700.00 | Tanauan City, Batangas | Rented | Fair
+#212 | Focusrite Scarlett 2i2 #302 | Audio | PHP 120.00/day | weekly PHP 700.00 | Balete, Batangas | Available | Fair
+#352 | Focusrite Scarlett 2i2 #442 | Audio | PHP 120.00/day | weekly PHP 700.00 | San Jose, Batangas | Available | Fair
+#492 | Focusrite Scarlett 2i2 #582 | Audio | PHP 120.00/day | weekly PHP 700.00 | Tanauan City, Batangas | Available | Fair
+#128 | Focusrite Scarlett 2i2 #218 | Audio | PHP 125.00/day | weekly PHP 700.00 | Balete, Batangas | Available | Fair
+#268 | Focusrite Scarlett 2i2 #358 | Audio | PHP 125.00/day | weekly PHP 700.00 | San Jose, Batangas | Available | Fair
+#408 | Focusrite Scarlett 2i2 #498 | Audio | PHP 125.00/day | weekly PHP 700.00 | Tanauan City, Batangas | Pending | Fair
+#44 | Focusrite Scarlett 2i2 #134 | Audio | PHP 130.00/day | weekly PHP 700.00 | Balete, Batangas | Available | Fair
+#184 | Focusrite Scarlett 2i2 #274 | Audio | PHP 130.00/day | weekly PHP 700.00 | San Jose, Batangas | Available | Fair
+#324 | Focusrite Scarlett 2i2 #414 | Audio | PHP 130.00/day | weekly PHP 700.00 | Tanauan City, Batangas | Available | Fair
+#464 | Focusrite Scarlett 2i2 #554 | Audio | PHP 130.00/day | weekly PHP 700.00 | Balete, Batangas | Available | Fair
+
+CATEGORY: Cameras
+-----------------
+#85 | Logitech Brio 4K #175 | Cameras | PHP 90.00/day | weekly PHP 600.00 | Santo Tomas, Batangas | Available | 
+#225 | Logitech Brio 4K #315 | Cameras | PHP 90.00/day | weekly PHP 600.00 | Talisay, Batangas | Available | 
+#365 | Logitech Brio 4K #455 | Cameras | PHP 90.00/day | weekly PHP 600.00 | Rosario, Batangas | Available | 
+#505 | Logitech Brio 4K #595 | Cameras | PHP 90.00/day | weekly PHP 600.00 | Santo Tomas, Batangas | Available | 
+#141 | Logitech Brio 4K #231 | Cameras | PHP 95.00/day | weekly PHP 600.00 | Talisay, Batangas | Available | 
+#281 | Logitech Brio 4K #371 | Cameras | PHP 95.00/day | weekly PHP 600.00 | Rosario, Batangas | Available | 
+#421 | Logitech Brio 4K #511 | Cameras | PHP 95.00/day | weekly PHP 600.00 | Santo Tomas, Batangas | Available | 
+#57 | Logitech Brio 4K #147 | Cameras | PHP 100.00/day | weekly PHP 600.00 | Talisay, Batangas | Available | 
+#197 | Logitech Brio 4K #287 | Cameras | PHP 100.00/day | weekly PHP 600.00 | Rosario, Batangas | Available | 
+#337 | Logitech Brio 4K #427 | Cameras | PHP 100.00/day | weekly PHP 600.00 | Santo Tomas, Batangas | Available | 
+#477 | Logitech Brio 4K #567 | Cameras | PHP 100.00/day | weekly PHP 600.00 | Talisay, Batangas | Available | 
+#113 | Logitech Brio 4K #203 | Cameras | PHP 105.00/day | weekly PHP 600.00 | Rosario, Batangas | Available | 
+#253 | Logitech Brio 4K #343 | Cameras | PHP 105.00/day | weekly PHP 600.00 | Santo Tomas, Batangas | Rented | 
+#393 | Logitech Brio 4K #483 | Cameras | PHP 105.00/day | weekly PHP 600.00 | Talisay, Batangas | Pending | 
+#29 | Logitech Brio 4K #119 | Cameras | PHP 110.00/day | weekly PHP 600.00 | Rosario, Batangas | Available | 
+#169 | Logitech Brio 4K #259 | Cameras | PHP 110.00/day | weekly PHP 600.00 | Santo Tomas, Batangas | Available | 
+#309 | Logitech Brio 4K #399 | Cameras | PHP 110.00/day | weekly PHP 600.00 | Talisay, Batangas | Available | 
+#449 | Logitech Brio 4K #539 | Cameras | PHP 110.00/day | weekly PHP 600.00 | Rosario, Batangas | Rented | 
+#120 | GoPro Hero 11 #210 | Cameras | PHP 180.00/day | weekly PHP 1120.00 | Tanauan City, Batangas | Available | Fair
+#260 | GoPro Hero 11 #350 | Cameras | PHP 180.00/day | weekly PHP 1120.00 | Balete, Batangas | Available | Fair
+#400 | GoPro Hero 11 #490 | Cameras | PHP 180.00/day | weekly PHP 1120.00 | San Jose, Batangas | Available | Fair
+#36 | GoPro Hero 11 #126 | Cameras | PHP 185.00/day | weekly PHP 1120.00 | Tanauan City, Batangas | Rented | Fair
+#176 | GoPro Hero 11 #266 | Cameras | PHP 185.00/day | weekly PHP 1120.00 | Balete, Batangas | Available | Fair
+#316 | GoPro Hero 11 #406 | Cameras | PHP 185.00/day | weekly PHP 1120.00 | San Jose, Batangas | Available | Fair
+#456 | GoPro Hero 11 #546 | Cameras | PHP 185.00/day | weekly PHP 1120.00 | Tanauan City, Batangas | Available | Fair
+#92 | GoPro Hero 11 #182 | Cameras | PHP 190.00/day | weekly PHP 1120.00 | Balete, Batangas | Available | Fair
+#232 | GoPro Hero 11 #322 | Cameras | PHP 190.00/day | weekly PHP 1120.00 | San Jose, Batangas | Available | Fair
+#372 | GoPro Hero 11 #462 | Cameras | PHP 190.00/day | weekly PHP 1120.00 | Tanauan City, Batangas | Available | Fair
+#148 | GoPro Hero 11 #238 | Cameras | PHP 195.00/day | weekly PHP 1120.00 | San Jose, Batangas | Available | Fair
+#288 | GoPro Hero 11 #378 | Cameras | PHP 195.00/day | weekly PHP 1120.00 | Tanauan City, Batangas | Available | Fair
+#428 | GoPro Hero 11 #518 | Cameras | PHP 195.00/day | weekly PHP 1120.00 | Balete, Batangas | Available | Fair
+#64 | GoPro Hero 11 #154 | Cameras | PHP 200.00/day | weekly PHP 1120.00 | San Jose, Batangas | Available | Fair
+#204 | GoPro Hero 11 #294 | Cameras | PHP 200.00/day | weekly PHP 1120.00 | Tanauan City, Batangas | Available | Fair
+#344 | GoPro Hero 11 #434 | Cameras | PHP 200.00/day | weekly PHP 1120.00 | Balete, Batangas | Available | Fair
+#484 | GoPro Hero 11 #574 | Cameras | PHP 200.00/day | weekly PHP 1120.00 | San Jose, Batangas | Available | Fair
+#50 | Canon EOS M50 Kit #140 | Cameras | PHP 320.00/day | weekly PHP 1920.00 | Malvar, Batangas | Available | Like New
+#190 | Canon EOS M50 Kit #280 | Cameras | PHP 320.00/day | weekly PHP 1920.00 | Lipa City, Batangas | Rented | Like New
+#330 | Canon EOS M50 Kit #420 | Cameras | PHP 320.00/day | weekly PHP 1920.00 | Ibaan, Batangas | Available | Like New
+#470 | Canon EOS M50 Kit #560 | Cameras | PHP 320.00/day | weekly PHP 1920.00 | Malvar, Batangas | Pending | Like New
+#106 | Canon EOS M50 Kit #196 | Cameras | PHP 325.00/day | weekly PHP 1920.00 | Lipa City, Batangas | Available | Like New
+#246 | Canon EOS M50 Kit #336 | Cameras | PHP 325.00/day | weekly PHP 1920.00 | Ibaan, Batangas | Rented | Like New
+#386 | Canon EOS M50 Kit #476 | Cameras | PHP 325.00/day | weekly PHP 1920.00 | Malvar, Batangas | Available | Like New
+#22 | Canon EOS M50 Kit #112 | Cameras | PHP 330.00/day | weekly PHP 1920.00 | Lipa City, Batangas | Available | Like New
+#162 | Canon EOS M50 Kit #252 | Cameras | PHP 330.00/day | weekly PHP 1920.00 | Ibaan, Batangas | Available | Like New
+#302 | Canon EOS M50 Kit #392 | Cameras | PHP 330.00/day | weekly PHP 1920.00 | Malvar, Batangas | Available | Like New
+#442 | Canon EOS M50 Kit #532 | Cameras | PHP 330.00/day | weekly PHP 1920.00 | Lipa City, Batangas | Available | Like New
+#78 | Canon EOS M50 Kit #168 | Cameras | PHP 335.00/day | weekly PHP 1920.00 | Ibaan, Batangas | Available | Like New
+#218 | Canon EOS M50 Kit #308 | Cameras | PHP 335.00/day | weekly PHP 1920.00 | Malvar, Batangas | Available | Like New
+#358 | Canon EOS M50 Kit #448 | Cameras | PHP 335.00/day | weekly PHP 1920.00 | Lipa City, Batangas | Available | Like New
+#498 | Canon EOS M50 Kit #588 | Cameras | PHP 335.00/day | weekly PHP 1920.00 | Ibaan, Batangas | Available | Like New
+#134 | Canon EOS M50 Kit #224 | Cameras | PHP 340.00/day | weekly PHP 1920.00 | Malvar, Batangas | Rented | Like New
+#274 | Canon EOS M50 Kit #364 | Cameras | PHP 340.00/day | weekly PHP 1920.00 | Lipa City, Batangas | Available | Like New
+#414 | Canon EOS M50 Kit #504 | Cameras | PHP 340.00/day | weekly PHP 1920.00 | Ibaan, Batangas | Available | Like New
+#15 | Sony A6400 Body #105 | Cameras | PHP 350.00/day | weekly PHP 2120.00 | Mataas na Kahoy, Batangas | Available | Good
+#155 | Sony A6400 Body #245 | Cameras | PHP 350.00/day | weekly PHP 2120.00 | Batangas City | Pending | Good
+#295 | Sony A6400 Body #385 | Cameras | PHP 350.00/day | weekly PHP 2120.00 | Padre Garcia, Batangas | Rented | Good
+#435 | Sony A6400 Body #525 | Cameras | PHP 350.00/day | weekly PHP 2120.00 | Mataas na Kahoy, Batangas | Pending | Good
+#71 | Sony A6400 Body #161 | Cameras | PHP 355.00/day | weekly PHP 2120.00 | Batangas City | Available | Good
+#211 | Sony A6400 Body #301 | Cameras | PHP 355.00/day | weekly PHP 2120.00 | Padre Garcia, Batangas | Available | Good
+#351 | Sony A6400 Body #441 | Cameras | PHP 355.00/day | weekly PHP 2120.00 | Mataas na Kahoy, Batangas | Available | Good
+#491 | Sony A6400 Body #581 | Cameras | PHP 355.00/day | weekly PHP 2120.00 | Batangas City | Available | Good
+#127 | Sony A6400 Body #217 | Cameras | PHP 360.00/day | weekly PHP 2120.00 | Padre Garcia, Batangas | Rented | Good
+#267 | Sony A6400 Body #357 | Cameras | PHP 360.00/day | weekly PHP 2120.00 | Mataas na Kahoy, Batangas | Available | Good
+#407 | Sony A6400 Body #497 | Cameras | PHP 360.00/day | weekly PHP 2120.00 | Batangas City | Available | Good
+#43 | Sony A6400 Body #133 | Cameras | PHP 365.00/day | weekly PHP 2120.00 | Padre Garcia, Batangas | Available | Good
+#183 | Sony A6400 Body #273 | Cameras | PHP 365.00/day | weekly PHP 2120.00 | Mataas na Kahoy, Batangas | Pending | Good
+#323 | Sony A6400 Body #413 | Cameras | PHP 365.00/day | weekly PHP 2120.00 | Batangas City | Available | Good
+#463 | Sony A6400 Body #553 | Cameras | PHP 365.00/day | weekly PHP 2120.00 | Padre Garcia, Batangas | Available | Good
+#99 | Sony A6400 Body #189 | Cameras | PHP 370.00/day | weekly PHP 2120.00 | Mataas na Kahoy, Batangas | Available | Good
+#239 | Sony A6400 Body #329 | Cameras | PHP 370.00/day | weekly PHP 2120.00 | Batangas City | Available | Good
+#379 | Sony A6400 Body #469 | Cameras | PHP 370.00/day | weekly PHP 2120.00 | Padre Garcia, Batangas | Available | Good
+
+CATEGORY: GPUs
+--------------
+#90 | GTX 1660 Super #180 | GPUs | PHP 150.00/day | weekly PHP 900.00 | Ibaan, Batangas | Available | Like New
+#195 | GTX 1660 Super #285 | GPUs | PHP 150.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#300 | GTX 1660 Super #390 | GPUs | PHP 150.00/day | weekly PHP 940.00 | Tanauan City, Batangas | Available | Fair
+#405 | GTX 1660 Super #495 | GPUs | PHP 150.00/day | weekly PHP 960.00 | Talisay, Batangas | Available | 
+#111 | GTX 1660 Super #201 | GPUs | PHP 155.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#216 | GTX 1660 Super #306 | GPUs | PHP 155.00/day | weekly PHP 940.00 | Tanauan City, Batangas | Available | Fair
+#321 | GTX 1660 Super #411 | GPUs | PHP 155.00/day | weekly PHP 960.00 | Talisay, Batangas | Pending | 
+#426 | GTX 1660 Super #516 | GPUs | PHP 155.00/day | weekly PHP 900.00 | Ibaan, Batangas | Available | Like New
+#27 | GTX 1660 Super #117 | GPUs | PHP 160.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#132 | GTX 1660 Super #222 | GPUs | PHP 160.00/day | weekly PHP 940.00 | Tanauan City, Batangas | Available | Fair
+#237 | GTX 1660 Super #327 | GPUs | PHP 160.00/day | weekly PHP 960.00 | Talisay, Batangas | Available | 
+#342 | GTX 1660 Super #432 | GPUs | PHP 160.00/day | weekly PHP 900.00 | Ibaan, Batangas | Available | Like New
+#447 | GTX 1660 Super #537 | GPUs | PHP 160.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#48 | GTX 1660 Super #138 | GPUs | PHP 165.00/day | weekly PHP 940.00 | Tanauan City, Batangas | Available | Fair
+#153 | GTX 1660 Super #243 | GPUs | PHP 165.00/day | weekly PHP 960.00 | Talisay, Batangas | Available | 
+#258 | GTX 1660 Super #348 | GPUs | PHP 165.00/day | weekly PHP 900.00 | Ibaan, Batangas | Rented | Like New
+#363 | GTX 1660 Super #453 | GPUs | PHP 165.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#468 | GTX 1660 Super #558 | GPUs | PHP 165.00/day | weekly PHP 940.00 | Tanauan City, Batangas | Available | Fair
+#69 | GTX 1660 Super #159 | GPUs | PHP 170.00/day | weekly PHP 960.00 | Talisay, Batangas | Available | 
+#174 | GTX 1660 Super #264 | GPUs | PHP 170.00/day | weekly PHP 900.00 | Ibaan, Batangas | Available | Like New
+#279 | GTX 1660 Super #369 | GPUs | PHP 170.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#384 | GTX 1660 Super #474 | GPUs | PHP 170.00/day | weekly PHP 940.00 | Tanauan City, Batangas | Available | Fair
+#489 | GTX 1660 Super #579 | GPUs | PHP 170.00/day | weekly PHP 960.00 | Talisay, Batangas | Available | 
+#20 | AMD RX 6700 XT #110 | GPUs | PHP 220.00/day | weekly PHP 1360.00 | Balete, Batangas | Rented | Fair
+#125 | AMD RX 6700 XT #215 | GPUs | PHP 220.00/day | weekly PHP 1380.00 | Rosario, Batangas | Rented | 
+#230 | AMD RX 6700 XT #320 | GPUs | PHP 220.00/day | weekly PHP 1320.00 | Malvar, Batangas | Available | Like New
+#335 | AMD RX 6700 XT #425 | GPUs | PHP 220.00/day | weekly PHP 1340.00 | Batangas City | Available | Good
+#440 | AMD RX 6700 XT #530 | GPUs | PHP 220.00/day | weekly PHP 1360.00 | Balete, Batangas | Pending | Fair
+#41 | AMD RX 6700 XT #131 | GPUs | PHP 225.00/day | weekly PHP 1380.00 | Rosario, Batangas | Available | 
+#146 | AMD RX 6700 XT #236 | GPUs | PHP 225.00/day | weekly PHP 1320.00 | Malvar, Batangas | Available | Like New
+#251 | AMD RX 6700 XT #341 | GPUs | PHP 225.00/day | weekly PHP 1340.00 | Batangas City | Available | Good
+#356 | AMD RX 6700 XT #446 | GPUs | PHP 225.00/day | weekly PHP 1360.00 | Balete, Batangas | Available | Fair
+#461 | AMD RX 6700 XT #551 | GPUs | PHP 225.00/day | weekly PHP 1380.00 | Rosario, Batangas | Available | 
+#62 | AMD RX 6700 XT #152 | GPUs | PHP 230.00/day | weekly PHP 1320.00 | Malvar, Batangas | Rented | Like New
+#167 | AMD RX 6700 XT #257 | GPUs | PHP 230.00/day | weekly PHP 1340.00 | Batangas City | Available | Good
+#272 | AMD RX 6700 XT #362 | GPUs | PHP 230.00/day | weekly PHP 1360.00 | Balete, Batangas | Available | Fair
+#377 | AMD RX 6700 XT #467 | GPUs | PHP 230.00/day | weekly PHP 1380.00 | Rosario, Batangas | Available | 
+#482 | AMD RX 6700 XT #572 | GPUs | PHP 230.00/day | weekly PHP 1320.00 | Malvar, Batangas | Available | Like New
+#83 | AMD RX 6700 XT #173 | GPUs | PHP 235.00/day | weekly PHP 1340.00 | Batangas City | Available | Good
+#188 | AMD RX 6700 XT #278 | GPUs | PHP 235.00/day | weekly PHP 1360.00 | Balete, Batangas | Available | Fair
+#293 | AMD RX 6700 XT #383 | GPUs | PHP 235.00/day | weekly PHP 1380.00 | Rosario, Batangas | Available | 
+#398 | AMD RX 6700 XT #488 | GPUs | PHP 235.00/day | weekly PHP 1320.00 | Malvar, Batangas | Available | Like New
+#503 | AMD RX 6700 XT #593 | GPUs | PHP 235.00/day | weekly PHP 1340.00 | Batangas City | Available | Good
+#104 | AMD RX 6700 XT #194 | GPUs | PHP 240.00/day | weekly PHP 1360.00 | Balete, Batangas | Available | Fair
+#209 | AMD RX 6700 XT #299 | GPUs | PHP 240.00/day | weekly PHP 1380.00 | Rosario, Batangas | Available | 
+#314 | AMD RX 6700 XT #404 | GPUs | PHP 240.00/day | weekly PHP 1320.00 | Malvar, Batangas | Available | Like New
+#419 | AMD RX 6700 XT #509 | GPUs | PHP 240.00/day | weekly PHP 1340.00 | Batangas City | Available | Good
+#55 | NVIDIA RTX 3060 #145 | GPUs | PHP 260.00/day | weekly PHP 1580.00 | Padre Garcia, Batangas | Pending | Good
+#160 | NVIDIA RTX 3060 #250 | GPUs | PHP 260.00/day | weekly PHP 1600.00 | San Jose, Batangas | Available | Fair
+#265 | NVIDIA RTX 3060 #355 | GPUs | PHP 260.00/day | weekly PHP 1620.00 | Santo Tomas, Batangas | Available | 
+#370 | NVIDIA RTX 3060 #460 | GPUs | PHP 260.00/day | weekly PHP 1560.00 | Lipa City, Batangas | Available | Like New
+#475 | NVIDIA RTX 3060 #565 | GPUs | PHP 260.00/day | weekly PHP 1580.00 | Padre Garcia, Batangas | Available | Good
+#76 | NVIDIA RTX 3060 #166 | GPUs | PHP 265.00/day | weekly PHP 1600.00 | San Jose, Batangas | Available | Fair
+#181 | NVIDIA RTX 3060 #271 | GPUs | PHP 265.00/day | weekly PHP 1620.00 | Santo Tomas, Batangas | Available | 
+#286 | NVIDIA RTX 3060 #376 | GPUs | PHP 265.00/day | weekly PHP 1560.00 | Lipa City, Batangas | Available | Like New
+#391 | NVIDIA RTX 3060 #481 | GPUs | PHP 265.00/day | weekly PHP 1580.00 | Padre Garcia, Batangas | Pending | Good
+#496 | NVIDIA RTX 3060 #586 | GPUs | PHP 265.00/day | weekly PHP 1600.00 | San Jose, Batangas | Available | Fair
+#97 | NVIDIA RTX 3060 #187 | GPUs | PHP 270.00/day | weekly PHP 1620.00 | Santo Tomas, Batangas | Available | 
+#202 | NVIDIA RTX 3060 #292 | GPUs | PHP 270.00/day | weekly PHP 1560.00 | Lipa City, Batangas | Available | Like New
+#307 | NVIDIA RTX 3060 #397 | GPUs | PHP 270.00/day | weekly PHP 1580.00 | Padre Garcia, Batangas | Pending | Good
+#412 | NVIDIA RTX 3060 #502 | GPUs | PHP 270.00/day | weekly PHP 1600.00 | San Jose, Batangas | Rented | Fair
+#13 | NVIDIA RTX 3060 #103 | GPUs | PHP 275.00/day | weekly PHP 1620.00 | Santo Tomas, Batangas | Rented | 
+#118 | NVIDIA RTX 3060 #208 | GPUs | PHP 275.00/day | weekly PHP 1560.00 | Lipa City, Batangas | Available | Like New
+#223 | NVIDIA RTX 3060 #313 | GPUs | PHP 275.00/day | weekly PHP 1580.00 | Padre Garcia, Batangas | Available | Good
+#328 | NVIDIA RTX 3060 #418 | GPUs | PHP 275.00/day | weekly PHP 1600.00 | San Jose, Batangas | Available | Fair
+#433 | NVIDIA RTX 3060 #523 | GPUs | PHP 275.00/day | weekly PHP 1620.00 | Santo Tomas, Batangas | Available | 
+#34 | NVIDIA RTX 3060 #124 | GPUs | PHP 280.00/day | weekly PHP 1560.00 | Lipa City, Batangas | Available | Like New
+#139 | NVIDIA RTX 3060 #229 | GPUs | PHP 280.00/day | weekly PHP 1580.00 | Padre Garcia, Batangas | Available | Good
+#244 | NVIDIA RTX 3060 #334 | GPUs | PHP 280.00/day | weekly PHP 1600.00 | San Jose, Batangas | Available | Fair
+#349 | NVIDIA RTX 3060 #439 | GPUs | PHP 280.00/day | weekly PHP 1620.00 | Santo Tomas, Batangas | Rented | 
+#454 | NVIDIA RTX 3060 #544 | GPUs | PHP 280.00/day | weekly PHP 1560.00 | Lipa City, Batangas | Available | Like New
+
+CATEGORY: IoT & Microcontrollers
+--------------------------------
+#31 | Arduino Uno R3 Bundle #121 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 200.00 | Padre Garcia, Batangas | Available | Good
+#66 | Arduino Uno R3 Bundle #156 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 180.00 | Ibaan, Batangas | Available | Like New
+#101 | Arduino Uno R3 Bundle #191 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 240.00 | Rosario, Batangas | Available | 
+#136 | Arduino Uno R3 Bundle #226 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 220.00 | San Jose, Batangas | Available | Fair
+#171 | Arduino Uno R3 Bundle #261 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 200.00 | Mataas na Kahoy, Batangas | Available | Good
+#206 | Arduino Uno R3 Bundle #296 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 180.00 | Malvar, Batangas | Pending | Like New
+#241 | Arduino Uno R3 Bundle #331 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 240.00 | Santo Tomas, Batangas | Available | 
+#276 | Arduino Uno R3 Bundle #366 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 220.00 | Tanauan City, Batangas | Available | Fair
+#311 | Arduino Uno R3 Bundle #401 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 200.00 | Batangas City | Pending | Good
+#346 | Arduino Uno R3 Bundle #436 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 180.00 | Lipa City, Batangas | Pending | Like New
+#381 | Arduino Uno R3 Bundle #471 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 240.00 | Talisay, Batangas | Rented | 
+#416 | Arduino Uno R3 Bundle #506 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 220.00 | Balete, Batangas | Pending | Fair
+#451 | Arduino Uno R3 Bundle #541 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 200.00 | Padre Garcia, Batangas | Available | Good
+#486 | Arduino Uno R3 Bundle #576 | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 180.00 | Ibaan, Batangas | Available | Like New
+#2 | Arduino Uno R3 Starter Kit | IoT & Microcontrollers | PHP 35.00/day | weekly PHP 200.00 | Lipa City, Batangas | Rented | Good
+#10 | Raspberry Pi 4 Kit #100 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 270.00 | Lipa City, Batangas | Pending | Like New
+#45 | Raspberry Pi 4 Kit #135 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 330.00 | Talisay, Batangas | Available | 
+#80 | Raspberry Pi 4 Kit #170 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 310.00 | Balete, Batangas | Available | Fair
+#115 | Raspberry Pi 4 Kit #205 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 290.00 | Padre Garcia, Batangas | Available | Good
+#150 | Raspberry Pi 4 Kit #240 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 270.00 | Ibaan, Batangas | Available | Like New
+#185 | Raspberry Pi 4 Kit #275 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 330.00 | Rosario, Batangas | Pending | 
+#220 | Raspberry Pi 4 Kit #310 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 310.00 | San Jose, Batangas | Pending | Fair
+#255 | Raspberry Pi 4 Kit #345 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 290.00 | Mataas na Kahoy, Batangas | Available | Good
+#290 | Raspberry Pi 4 Kit #380 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 270.00 | Malvar, Batangas | Pending | Like New
+#325 | Raspberry Pi 4 Kit #415 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 330.00 | Santo Tomas, Batangas | Available | 
+#360 | Raspberry Pi 4 Kit #450 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 310.00 | Tanauan City, Batangas | Rented | Fair
+#395 | Raspberry Pi 4 Kit #485 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 290.00 | Batangas City | Pending | Good
+#430 | Raspberry Pi 4 Kit #520 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 270.00 | Lipa City, Batangas | Available | Like New
+#465 | Raspberry Pi 4 Kit #555 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 330.00 | Talisay, Batangas | Pending | 
+#500 | Raspberry Pi 4 Kit #590 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 310.00 | Balete, Batangas | Available | Fair
+#24 | Raspberry Pi Pico W #114 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 190.00 | Tanauan City, Batangas | Pending | Fair
+#59 | Raspberry Pi Pico W #149 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 170.00 | Batangas City | Available | Good
+#94 | Raspberry Pi Pico W #184 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 150.00 | Lipa City, Batangas | Available | Like New
+#129 | Raspberry Pi Pico W #219 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 210.00 | Talisay, Batangas | Available | 
+#164 | Raspberry Pi Pico W #254 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 190.00 | Balete, Batangas | Pending | Fair
+#199 | Raspberry Pi Pico W #289 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 170.00 | Padre Garcia, Batangas | Available | Good
+#234 | Raspberry Pi Pico W #324 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 150.00 | Ibaan, Batangas | Rented | Like New
+#269 | Raspberry Pi Pico W #359 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 210.00 | Rosario, Batangas | Available | 
+#304 | Raspberry Pi Pico W #394 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 190.00 | San Jose, Batangas | Pending | Fair
+#339 | Raspberry Pi Pico W #429 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 170.00 | Mataas na Kahoy, Batangas | Available | Good
+#374 | Raspberry Pi Pico W #464 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 150.00 | Malvar, Batangas | Available | Like New
+#409 | Raspberry Pi Pico W #499 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 210.00 | Santo Tomas, Batangas | Pending | 
+#444 | Raspberry Pi Pico W #534 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 190.00 | Tanauan City, Batangas | Available | Fair
+#479 | Raspberry Pi Pico W #569 | IoT & Microcontrollers | PHP 45.00/day | weekly PHP 170.00 | Batangas City | Available | Good
+#17 | ESP32 Dev Board Pack #107 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 300.00 | Rosario, Batangas | Available | 
+#52 | ESP32 Dev Board Pack #142 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 280.00 | San Jose, Batangas | Available | Fair
+#87 | ESP32 Dev Board Pack #177 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 260.00 | Mataas na Kahoy, Batangas | Available | Good
+#122 | ESP32 Dev Board Pack #212 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 240.00 | Malvar, Batangas | Rented | Like New
+#157 | ESP32 Dev Board Pack #247 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 300.00 | Santo Tomas, Batangas | Available | 
+#192 | ESP32 Dev Board Pack #282 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 280.00 | Tanauan City, Batangas | Available | Fair
+#227 | ESP32 Dev Board Pack #317 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 260.00 | Batangas City | Rented | Good
+#262 | ESP32 Dev Board Pack #352 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 240.00 | Lipa City, Batangas | Available | Like New
+#297 | ESP32 Dev Board Pack #387 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 300.00 | Talisay, Batangas | Rented | 
+#332 | ESP32 Dev Board Pack #422 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 280.00 | Balete, Batangas | Available | Fair
+#367 | ESP32 Dev Board Pack #457 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 260.00 | Padre Garcia, Batangas | Available | Good
+#402 | ESP32 Dev Board Pack #492 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 240.00 | Ibaan, Batangas | Available | Like New
+#437 | ESP32 Dev Board Pack #527 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 300.00 | Rosario, Batangas | Available | 
+#472 | ESP32 Dev Board Pack #562 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 280.00 | San Jose, Batangas | Available | Fair
+#507 | ESP32 Dev Board Pack #597 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 260.00 | Mataas na Kahoy, Batangas | Available | Good
+#38 | NodeMCU IoT Starter #128 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 210.00 | Malvar, Batangas | Available | Like New
+#73 | NodeMCU IoT Starter #163 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 270.00 | Santo Tomas, Batangas | Available | 
+#108 | NodeMCU IoT Starter #198 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 250.00 | Tanauan City, Batangas | Available | Fair
+#143 | NodeMCU IoT Starter #233 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 230.00 | Batangas City | Rented | Good
+#178 | NodeMCU IoT Starter #268 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 210.00 | Lipa City, Batangas | Available | Like New
+#213 | NodeMCU IoT Starter #303 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 270.00 | Talisay, Batangas | Pending | 
+#248 | NodeMCU IoT Starter #338 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 250.00 | Balete, Batangas | Available | Fair
+#283 | NodeMCU IoT Starter #373 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 230.00 | Padre Garcia, Batangas | Available | Good
+#318 | NodeMCU IoT Starter #408 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 210.00 | Ibaan, Batangas | Available | Like New
+#353 | NodeMCU IoT Starter #443 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 270.00 | Rosario, Batangas | Available | 
+#388 | NodeMCU IoT Starter #478 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 250.00 | San Jose, Batangas | Available | Fair
+#423 | NodeMCU IoT Starter #513 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 230.00 | Mataas na Kahoy, Batangas | Available | Good
+#458 | NodeMCU IoT Starter #548 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 210.00 | Malvar, Batangas | Available | Like New
+#493 | NodeMCU IoT Starter #583 | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 270.00 | Santo Tomas, Batangas | Available | 
+#1 | Raspberry Pi 4 Model B Kit | IoT & Microcontrollers | PHP 50.00/day | weekly PHP 300.00 | Lipa City, Batangas | Pending | Like New
+#11 | iPhone 13 Test Unit #101 | IoT & Microcontrollers | PHP 100.00/day | weekly PHP 500.00 | Lipa City, Batangas | Available | Good
+
+CATEGORY: Laptops
+-----------------
+#19 | HP Pavilion 109 | Laptops | PHP 220.00/day | weekly PHP 1220.00 | Padre Garcia, Batangas | Available | Good
+#54 | HP Pavilion 144 | Laptops | PHP 220.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Available | Like New
+#89 | HP Pavilion 179 | Laptops | PHP 220.00/day | weekly PHP 1260.00 | Rosario, Batangas | Available | 
+#124 | HP Pavilion 214 | Laptops | PHP 220.00/day | weekly PHP 1240.00 | San Jose, Batangas | Available | Fair
+#159 | HP Pavilion 249 | Laptops | PHP 220.00/day | weekly PHP 1220.00 | Mataas na Kahoy, Batangas | Available | Good
+#194 | HP Pavilion 284 | Laptops | PHP 220.00/day | weekly PHP 1200.00 | Malvar, Batangas | Rented | Like New
+#229 | HP Pavilion 319 | Laptops | PHP 220.00/day | weekly PHP 1260.00 | Santo Tomas, Batangas | Available | 
+#264 | HP Pavilion 354 | Laptops | PHP 220.00/day | weekly PHP 1240.00 | Tanauan City, Batangas | Available | Fair
+#299 | HP Pavilion 389 | Laptops | PHP 220.00/day | weekly PHP 1220.00 | Batangas City | Available | Good
+#334 | HP Pavilion 424 | Laptops | PHP 220.00/day | weekly PHP 1200.00 | Lipa City, Batangas | Available | Like New
+#369 | HP Pavilion 459 | Laptops | PHP 220.00/day | weekly PHP 1260.00 | Talisay, Batangas | Available | 
+#404 | HP Pavilion 494 | Laptops | PHP 220.00/day | weekly PHP 1240.00 | Balete, Batangas | Available | Fair
+#439 | HP Pavilion 529 | Laptops | PHP 220.00/day | weekly PHP 1220.00 | Padre Garcia, Batangas | Available | Good
+#474 | HP Pavilion 564 | Laptops | PHP 220.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Available | Like New
+#509 | HP Pavilion 599 | Laptops | PHP 220.00/day | weekly PHP 1260.00 | Rosario, Batangas | Available | 
+#12 | Lenovo ThinkPad #102 | Laptops | PHP 290.00/day | weekly PHP 1720.00 | Tanauan City, Batangas | Available | Fair
+#47 | Lenovo ThinkPad #137 | Laptops | PHP 290.00/day | weekly PHP 1700.00 | Batangas City | Pending | Good
+#82 | Lenovo ThinkPad #172 | Laptops | PHP 290.00/day | weekly PHP 1680.00 | Lipa City, Batangas | Available | Like New
+#117 | Lenovo ThinkPad #207 | Laptops | PHP 290.00/day | weekly PHP 1740.00 | Talisay, Batangas | Available | 
+#152 | Lenovo ThinkPad #242 | Laptops | PHP 290.00/day | weekly PHP 1720.00 | Balete, Batangas | Available | Fair
+#187 | Lenovo ThinkPad #277 | Laptops | PHP 290.00/day | weekly PHP 1700.00 | Padre Garcia, Batangas | Available | Good
+#222 | Lenovo ThinkPad #312 | Laptops | PHP 290.00/day | weekly PHP 1680.00 | Ibaan, Batangas | Available | Like New
+#257 | Lenovo ThinkPad #347 | Laptops | PHP 290.00/day | weekly PHP 1740.00 | Rosario, Batangas | Available | 
+#292 | Lenovo ThinkPad #382 | Laptops | PHP 290.00/day | weekly PHP 1720.00 | San Jose, Batangas | Pending | Fair
+#327 | Lenovo ThinkPad #417 | Laptops | PHP 290.00/day | weekly PHP 1700.00 | Mataas na Kahoy, Batangas | Available | Good
+#362 | Lenovo ThinkPad #452 | Laptops | PHP 290.00/day | weekly PHP 1680.00 | Malvar, Batangas | Available | Like New
+#397 | Lenovo ThinkPad #487 | Laptops | PHP 290.00/day | weekly PHP 1740.00 | Santo Tomas, Batangas | Available | 
+#432 | Lenovo ThinkPad #522 | Laptops | PHP 290.00/day | weekly PHP 1720.00 | Tanauan City, Batangas | Available | Fair
+#467 | Lenovo ThinkPad #557 | Laptops | PHP 290.00/day | weekly PHP 1700.00 | Batangas City | Available | Good
+#502 | Lenovo ThinkPad #592 | Laptops | PHP 290.00/day | weekly PHP 1680.00 | Lipa City, Batangas | Available | Like New
+#26 | Dell XPS 15 Dev Laptop #116 | Laptops | PHP 355.00/day | weekly PHP 2100.00 | Malvar, Batangas | Available | Like New
+#61 | Dell XPS 15 Dev Laptop #151 | Laptops | PHP 355.00/day | weekly PHP 2160.00 | Santo Tomas, Batangas | Available | 
+#96 | Dell XPS 15 Dev Laptop #186 | Laptops | PHP 355.00/day | weekly PHP 2140.00 | Tanauan City, Batangas | Available | Fair
+#131 | Dell XPS 15 Dev Laptop #221 | Laptops | PHP 355.00/day | weekly PHP 2120.00 | Batangas City | Available | Good
+#166 | Dell XPS 15 Dev Laptop #256 | Laptops | PHP 355.00/day | weekly PHP 2100.00 | Lipa City, Batangas | Available | Like New
+#201 | Dell XPS 15 Dev Laptop #291 | Laptops | PHP 355.00/day | weekly PHP 2160.00 | Talisay, Batangas | Available | 
+#236 | Dell XPS 15 Dev Laptop #326 | Laptops | PHP 355.00/day | weekly PHP 2140.00 | Balete, Batangas | Available | Fair
+#271 | Dell XPS 15 Dev Laptop #361 | Laptops | PHP 355.00/day | weekly PHP 2120.00 | Padre Garcia, Batangas | Available | Good
+#306 | Dell XPS 15 Dev Laptop #396 | Laptops | PHP 355.00/day | weekly PHP 2100.00 | Ibaan, Batangas | Pending | Like New
+#341 | Dell XPS 15 Dev Laptop #431 | Laptops | PHP 355.00/day | weekly PHP 2160.00 | Rosario, Batangas | Available | 
+#376 | Dell XPS 15 Dev Laptop #466 | Laptops | PHP 355.00/day | weekly PHP 2140.00 | San Jose, Batangas | Available | Fair
+#411 | Dell XPS 15 Dev Laptop #501 | Laptops | PHP 355.00/day | weekly PHP 2120.00 | Mataas na Kahoy, Batangas | Available | Good
+#446 | Dell XPS 15 Dev Laptop #536 | Laptops | PHP 355.00/day | weekly PHP 2100.00 | Malvar, Batangas | Available | Like New
+#481 | Dell XPS 15 Dev Laptop #571 | Laptops | PHP 355.00/day | weekly PHP 2160.00 | Santo Tomas, Batangas | Available | 
+#33 | ASUS ROG Zephyrus #123 | Laptops | PHP 395.00/day | weekly PHP 2340.00 | Talisay, Batangas | Available | 
+#68 | ASUS ROG Zephyrus #158 | Laptops | PHP 395.00/day | weekly PHP 2320.00 | Balete, Batangas | Available | Fair
+#103 | ASUS ROG Zephyrus #193 | Laptops | PHP 395.00/day | weekly PHP 2300.00 | Padre Garcia, Batangas | Rented | Good
+#138 | ASUS ROG Zephyrus #228 | Laptops | PHP 395.00/day | weekly PHP 2280.00 | Ibaan, Batangas | Available | Like New
+#173 | ASUS ROG Zephyrus #263 | Laptops | PHP 395.00/day | weekly PHP 2340.00 | Rosario, Batangas | Available | 
+#208 | ASUS ROG Zephyrus #298 | Laptops | PHP 395.00/day | weekly PHP 2320.00 | San Jose, Batangas | Available | Fair
+#243 | ASUS ROG Zephyrus #333 | Laptops | PHP 395.00/day | weekly PHP 2300.00 | Mataas na Kahoy, Batangas | Available | Good
+#278 | ASUS ROG Zephyrus #368 | Laptops | PHP 395.00/day | weekly PHP 2280.00 | Malvar, Batangas | Available | Like New
+#313 | ASUS ROG Zephyrus #403 | Laptops | PHP 395.00/day | weekly PHP 2340.00 | Santo Tomas, Batangas | Pending | 
+#348 | ASUS ROG Zephyrus #438 | Laptops | PHP 395.00/day | weekly PHP 2320.00 | Tanauan City, Batangas | Pending | Fair
+#383 | ASUS ROG Zephyrus #473 | Laptops | PHP 395.00/day | weekly PHP 2300.00 | Batangas City | Available | Good
+#418 | ASUS ROG Zephyrus #508 | Laptops | PHP 395.00/day | weekly PHP 2280.00 | Lipa City, Batangas | Available | Like New
+#453 | ASUS ROG Zephyrus #543 | Laptops | PHP 395.00/day | weekly PHP 2340.00 | Talisay, Batangas | Available | 
+#488 | ASUS ROG Zephyrus #578 | Laptops | PHP 395.00/day | weekly PHP 2320.00 | Balete, Batangas | Available | Fair
+#40 | MacBook Pro 14" Rental #130 | Laptops | PHP 420.00/day | weekly PHP 2640.00 | San Jose, Batangas | Available | Fair
+#75 | MacBook Pro 14" Rental #165 | Laptops | PHP 420.00/day | weekly PHP 2620.00 | Mataas na Kahoy, Batangas | Available | Good
+#110 | MacBook Pro 14" Rental #200 | Laptops | PHP 420.00/day | weekly PHP 2600.00 | Malvar, Batangas | Available | Like New
+#145 | MacBook Pro 14" Rental #235 | Laptops | PHP 420.00/day | weekly PHP 2660.00 | Santo Tomas, Batangas | Rented | 
+#180 | MacBook Pro 14" Rental #270 | Laptops | PHP 420.00/day | weekly PHP 2640.00 | Tanauan City, Batangas | Available | Fair
+#215 | MacBook Pro 14" Rental #305 | Laptops | PHP 420.00/day | weekly PHP 2620.00 | Batangas City | Pending | Good
+#250 | MacBook Pro 14" Rental #340 | Laptops | PHP 420.00/day | weekly PHP 2600.00 | Lipa City, Batangas | Available | Like New
+#285 | MacBook Pro 14" Rental #375 | Laptops | PHP 420.00/day | weekly PHP 2660.00 | Talisay, Batangas | Available | 
+#320 | MacBook Pro 14" Rental #410 | Laptops | PHP 420.00/day | weekly PHP 2640.00 | Balete, Batangas | Available | Fair
+#355 | MacBook Pro 14" Rental #445 | Laptops | PHP 420.00/day | weekly PHP 2620.00 | Padre Garcia, Batangas | Available | Good
+#390 | MacBook Pro 14" Rental #480 | Laptops | PHP 420.00/day | weekly PHP 2600.00 | Ibaan, Batangas | Available | Like New
+#425 | MacBook Pro 14" Rental #515 | Laptops | PHP 420.00/day | weekly PHP 2660.00 | Rosario, Batangas | Available | 
+#460 | MacBook Pro 14" Rental #550 | Laptops | PHP 420.00/day | weekly PHP 2640.00 | San Jose, Batangas | Available | Fair
+#495 | MacBook Pro 14" Rental #585 | Laptops | PHP 420.00/day | weekly PHP 2620.00 | Mataas na Kahoy, Batangas | Available | Good
+
+CATEGORY: Mobile Testing
+------------------------
+#60 | Xiaomi Redmi Note #150 | Mobile Testing | PHP 80.00/day | weekly PHP 520.00 | Tanauan City, Batangas | Available | Fair
+#200 | Xiaomi Redmi Note #290 | Mobile Testing | PHP 80.00/day | weekly PHP 520.00 | Balete, Batangas | Pending | Fair
+#340 | Xiaomi Redmi Note #430 | Mobile Testing | PHP 80.00/day | weekly PHP 520.00 | San Jose, Batangas | Rented | Fair
+#480 | Xiaomi Redmi Note #570 | Mobile Testing | PHP 80.00/day | weekly PHP 520.00 | Tanauan City, Batangas | Available | Fair
+#116 | Xiaomi Redmi Note #206 | Mobile Testing | PHP 85.00/day | weekly PHP 520.00 | Balete, Batangas | Available | Fair
+#256 | Xiaomi Redmi Note #346 | Mobile Testing | PHP 85.00/day | weekly PHP 520.00 | San Jose, Batangas | Available | Fair
+#396 | Xiaomi Redmi Note #486 | Mobile Testing | PHP 85.00/day | weekly PHP 520.00 | Tanauan City, Batangas | Available | Fair
+#32 | Xiaomi Redmi Note #122 | Mobile Testing | PHP 90.00/day | weekly PHP 520.00 | Balete, Batangas | Available | Fair
+#172 | Xiaomi Redmi Note #262 | Mobile Testing | PHP 90.00/day | weekly PHP 520.00 | San Jose, Batangas | Rented | Fair
+#312 | Xiaomi Redmi Note #402 | Mobile Testing | PHP 90.00/day | weekly PHP 520.00 | Tanauan City, Batangas | Available | Fair
+#452 | Xiaomi Redmi Note #542 | Mobile Testing | PHP 90.00/day | weekly PHP 520.00 | Balete, Batangas | Available | Fair
+#88 | Xiaomi Redmi Note #178 | Mobile Testing | PHP 95.00/day | weekly PHP 520.00 | San Jose, Batangas | Available | Fair
+#228 | Xiaomi Redmi Note #318 | Mobile Testing | PHP 95.00/day | weekly PHP 520.00 | Tanauan City, Batangas | Available | Fair
+#368 | Xiaomi Redmi Note #458 | Mobile Testing | PHP 95.00/day | weekly PHP 520.00 | Balete, Batangas | Available | Fair
+#508 | Xiaomi Redmi Note #598 | Mobile Testing | PHP 95.00/day | weekly PHP 520.00 | San Jose, Batangas | Available | Fair
+#130 | Samsung Galaxy S21 Test Phone #220 | Mobile Testing | PHP 100.00/day | weekly PHP 600.00 | Lipa City, Batangas | Available | Like New
+#270 | Samsung Galaxy S21 Test Phone #360 | Mobile Testing | PHP 100.00/day | weekly PHP 600.00 | Ibaan, Batangas | Available | Like New
+#410 | Samsung Galaxy S21 Test Phone #500 | Mobile Testing | PHP 100.00/day | weekly PHP 600.00 | Malvar, Batangas | Available | Like New
+#144 | Xiaomi Redmi Note #234 | Mobile Testing | PHP 100.00/day | weekly PHP 520.00 | Tanauan City, Batangas | Rented | Fair
+#284 | Xiaomi Redmi Note #374 | Mobile Testing | PHP 100.00/day | weekly PHP 520.00 | Balete, Batangas | Available | Fair
+#424 | Xiaomi Redmi Note #514 | Mobile Testing | PHP 100.00/day | weekly PHP 520.00 | San Jose, Batangas | Rented | Fair
+#46 | Samsung Galaxy S21 Test Phone #136 | Mobile Testing | PHP 105.00/day | weekly PHP 600.00 | Lipa City, Batangas | Available | Like New
+#186 | Samsung Galaxy S21 Test Phone #276 | Mobile Testing | PHP 105.00/day | weekly PHP 600.00 | Ibaan, Batangas | Available | Like New
+#326 | Samsung Galaxy S21 Test Phone #416 | Mobile Testing | PHP 105.00/day | weekly PHP 600.00 | Malvar, Batangas | Available | Like New
+#466 | Samsung Galaxy S21 Test Phone #556 | Mobile Testing | PHP 105.00/day | weekly PHP 600.00 | Lipa City, Batangas | Available | Like New
+#102 | Samsung Galaxy S21 Test Phone #192 | Mobile Testing | PHP 110.00/day | weekly PHP 600.00 | Ibaan, Batangas | Rented | Like New
+#242 | Samsung Galaxy S21 Test Phone #332 | Mobile Testing | PHP 110.00/day | weekly PHP 600.00 | Malvar, Batangas | Available | Like New
+#382 | Samsung Galaxy S21 Test Phone #472 | Mobile Testing | PHP 110.00/day | weekly PHP 600.00 | Lipa City, Batangas | Available | Like New
+#18 | Samsung Galaxy S21 Test Phone #108 | Mobile Testing | PHP 115.00/day | weekly PHP 600.00 | Ibaan, Batangas | Available | Like New
+#158 | Samsung Galaxy S21 Test Phone #248 | Mobile Testing | PHP 115.00/day | weekly PHP 600.00 | Malvar, Batangas | Available | Like New
+#298 | Samsung Galaxy S21 Test Phone #388 | Mobile Testing | PHP 115.00/day | weekly PHP 600.00 | Lipa City, Batangas | Available | Like New
+#438 | Samsung Galaxy S21 Test Phone #528 | Mobile Testing | PHP 115.00/day | weekly PHP 600.00 | Ibaan, Batangas | Available | Like New
+#25 | Google Pixel 115 QA Unit | Mobile Testing | PHP 120.00/day | weekly PHP 780.00 | Santo Tomas, Batangas | Available | 
+#165 | Google Pixel 255 QA Unit | Mobile Testing | PHP 120.00/day | weekly PHP 780.00 | Talisay, Batangas | Available | 
+#305 | Google Pixel 395 QA Unit | Mobile Testing | PHP 120.00/day | weekly PHP 780.00 | Rosario, Batangas | Available | 
+#445 | Google Pixel 535 QA Unit | Mobile Testing | PHP 120.00/day | weekly PHP 780.00 | Santo Tomas, Batangas | Available | 
+#74 | Samsung Galaxy S21 Test Phone #164 | Mobile Testing | PHP 120.00/day | weekly PHP 600.00 | Malvar, Batangas | Available | Like New
+#214 | Samsung Galaxy S21 Test Phone #304 | Mobile Testing | PHP 120.00/day | weekly PHP 600.00 | Lipa City, Batangas | Available | Like New
+#354 | Samsung Galaxy S21 Test Phone #444 | Mobile Testing | PHP 120.00/day | weekly PHP 600.00 | Ibaan, Batangas | Available | Like New
+#494 | Samsung Galaxy S21 Test Phone #584 | Mobile Testing | PHP 120.00/day | weekly PHP 600.00 | Malvar, Batangas | Available | Like New
+#81 | Google Pixel 171 QA Unit | Mobile Testing | PHP 125.00/day | weekly PHP 780.00 | Talisay, Batangas | Available | 
+#221 | Google Pixel 311 QA Unit | Mobile Testing | PHP 125.00/day | weekly PHP 780.00 | Rosario, Batangas | Available | 
+#361 | Google Pixel 451 QA Unit | Mobile Testing | PHP 125.00/day | weekly PHP 780.00 | Santo Tomas, Batangas | Available | 
+#501 | Google Pixel 591 QA Unit | Mobile Testing | PHP 125.00/day | weekly PHP 780.00 | Talisay, Batangas | Available | 
+#137 | Google Pixel 227 QA Unit | Mobile Testing | PHP 130.00/day | weekly PHP 780.00 | Rosario, Batangas | Pending | 
+#277 | Google Pixel 367 QA Unit | Mobile Testing | PHP 130.00/day | weekly PHP 780.00 | Santo Tomas, Batangas | Available | 
+#417 | Google Pixel 507 QA Unit | Mobile Testing | PHP 130.00/day | weekly PHP 780.00 | Talisay, Batangas | Available | 
+#53 | Google Pixel 143 QA Unit | Mobile Testing | PHP 135.00/day | weekly PHP 780.00 | Rosario, Batangas | Available | 
+#193 | Google Pixel 283 QA Unit | Mobile Testing | PHP 135.00/day | weekly PHP 780.00 | Santo Tomas, Batangas | Available | 
+#333 | Google Pixel 423 QA Unit | Mobile Testing | PHP 135.00/day | weekly PHP 780.00 | Talisay, Batangas | Rented | 
+#473 | Google Pixel 563 QA Unit | Mobile Testing | PHP 135.00/day | weekly PHP 780.00 | Rosario, Batangas | Available | 
+#109 | Google Pixel 199 QA Unit | Mobile Testing | PHP 140.00/day | weekly PHP 780.00 | Santo Tomas, Batangas | Available | 
+#249 | Google Pixel 339 QA Unit | Mobile Testing | PHP 140.00/day | weekly PHP 780.00 | Talisay, Batangas | Available | 
+#389 | Google Pixel 479 QA Unit | Mobile Testing | PHP 140.00/day | weekly PHP 780.00 | Rosario, Batangas | Available | 
+#95 | iPhone 13 Test Unit #185 | Mobile Testing | PHP 150.00/day | weekly PHP 920.00 | Batangas City | Available | Good
+#235 | iPhone 13 Test Unit #325 | Mobile Testing | PHP 150.00/day | weekly PHP 920.00 | Padre Garcia, Batangas | Available | Good
+#375 | iPhone 13 Test Unit #465 | Mobile Testing | PHP 150.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Rented | Good
+#151 | iPhone 13 Test Unit #241 | Mobile Testing | PHP 155.00/day | weekly PHP 920.00 | Padre Garcia, Batangas | Available | Good
+#291 | iPhone 13 Test Unit #381 | Mobile Testing | PHP 155.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Pending | Good
+#431 | iPhone 13 Test Unit #521 | Mobile Testing | PHP 155.00/day | weekly PHP 920.00 | Batangas City | Available | Good
+#67 | iPhone 13 Test Unit #157 | Mobile Testing | PHP 160.00/day | weekly PHP 920.00 | Padre Garcia, Batangas | Available | Good
+#207 | iPhone 13 Test Unit #297 | Mobile Testing | PHP 160.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#347 | iPhone 13 Test Unit #437 | Mobile Testing | PHP 160.00/day | weekly PHP 920.00 | Batangas City | Pending | Good
+#487 | iPhone 13 Test Unit #577 | Mobile Testing | PHP 160.00/day | weekly PHP 920.00 | Padre Garcia, Batangas | Available | Good
+#123 | iPhone 13 Test Unit #213 | Mobile Testing | PHP 165.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#263 | iPhone 13 Test Unit #353 | Mobile Testing | PHP 165.00/day | weekly PHP 920.00 | Batangas City | Available | Good
+#403 | iPhone 13 Test Unit #493 | Mobile Testing | PHP 165.00/day | weekly PHP 920.00 | Padre Garcia, Batangas | Available | Good
+#39 | iPhone 13 Test Unit #129 | Mobile Testing | PHP 170.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+#179 | iPhone 13 Test Unit #269 | Mobile Testing | PHP 170.00/day | weekly PHP 920.00 | Batangas City | Available | Good
+#319 | iPhone 13 Test Unit #409 | Mobile Testing | PHP 170.00/day | weekly PHP 920.00 | Padre Garcia, Batangas | Available | Good
+#459 | iPhone 13 Test Unit #549 | Mobile Testing | PHP 170.00/day | weekly PHP 920.00 | Mataas na Kahoy, Batangas | Available | Good
+
+CATEGORY: VR/AR Gear
+--------------------
+#105 | Oculus Rift S #195 | VR/AR Gear | PHP 200.00/day | weekly PHP 1260.00 | Talisay, Batangas | Available | 
+#210 | Oculus Rift S #300 | VR/AR Gear | PHP 200.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Available | Like New
+#315 | Oculus Rift S #405 | VR/AR Gear | PHP 200.00/day | weekly PHP 1220.00 | Mataas na Kahoy, Batangas | Pending | Good
+#420 | Oculus Rift S #510 | VR/AR Gear | PHP 200.00/day | weekly PHP 1240.00 | Tanauan City, Batangas | Available | Fair
+#21 | Oculus Rift S #111 | VR/AR Gear | PHP 205.00/day | weekly PHP 1260.00 | Talisay, Batangas | Available | 
+#126 | Oculus Rift S #216 | VR/AR Gear | PHP 205.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Pending | Like New
+#231 | Oculus Rift S #321 | VR/AR Gear | PHP 205.00/day | weekly PHP 1220.00 | Mataas na Kahoy, Batangas | Available | Good
+#336 | Oculus Rift S #426 | VR/AR Gear | PHP 205.00/day | weekly PHP 1240.00 | Tanauan City, Batangas | Available | Fair
+#441 | Oculus Rift S #531 | VR/AR Gear | PHP 205.00/day | weekly PHP 1260.00 | Talisay, Batangas | Available | 
+#42 | Oculus Rift S #132 | VR/AR Gear | PHP 210.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Pending | Like New
+#147 | Oculus Rift S #237 | VR/AR Gear | PHP 210.00/day | weekly PHP 1220.00 | Mataas na Kahoy, Batangas | Available | Good
+#252 | Oculus Rift S #342 | VR/AR Gear | PHP 210.00/day | weekly PHP 1240.00 | Tanauan City, Batangas | Available | Fair
+#357 | Oculus Rift S #447 | VR/AR Gear | PHP 210.00/day | weekly PHP 1260.00 | Talisay, Batangas | Available | 
+#462 | Oculus Rift S #552 | VR/AR Gear | PHP 210.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Available | Like New
+#63 | Oculus Rift S #153 | VR/AR Gear | PHP 215.00/day | weekly PHP 1220.00 | Mataas na Kahoy, Batangas | Available | Good
+#168 | Oculus Rift S #258 | VR/AR Gear | PHP 215.00/day | weekly PHP 1240.00 | Tanauan City, Batangas | Available | Fair
+#273 | Oculus Rift S #363 | VR/AR Gear | PHP 215.00/day | weekly PHP 1260.00 | Talisay, Batangas | Pending | 
+#378 | Oculus Rift S #468 | VR/AR Gear | PHP 215.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Available | Like New
+#483 | Oculus Rift S #573 | VR/AR Gear | PHP 215.00/day | weekly PHP 1220.00 | Mataas na Kahoy, Batangas | Available | Good
+#84 | Oculus Rift S #174 | VR/AR Gear | PHP 220.00/day | weekly PHP 1240.00 | Tanauan City, Batangas | Available | Fair
+#189 | Oculus Rift S #279 | VR/AR Gear | PHP 220.00/day | weekly PHP 1260.00 | Talisay, Batangas | Available | 
+#294 | Oculus Rift S #384 | VR/AR Gear | PHP 220.00/day | weekly PHP 1200.00 | Ibaan, Batangas | Available | Like New
+#399 | Oculus Rift S #489 | VR/AR Gear | PHP 220.00/day | weekly PHP 1220.00 | Mataas na Kahoy, Batangas | Pending | Good
+#504 | Oculus Rift S #594 | VR/AR Gear | PHP 220.00/day | weekly PHP 1240.00 | Tanauan City, Batangas | Available | Fair
+#35 | PS VR2 Kit #125 | VR/AR Gear | PHP 280.00/day | weekly PHP 1700.00 | Batangas City | Available | Good
+#140 | PS VR2 Kit #230 | VR/AR Gear | PHP 280.00/day | weekly PHP 1720.00 | Balete, Batangas | Available | Fair
+#245 | PS VR2 Kit #335 | VR/AR Gear | PHP 280.00/day | weekly PHP 1740.00 | Rosario, Batangas | Available | 
+#350 | PS VR2 Kit #440 | VR/AR Gear | PHP 280.00/day | weekly PHP 1680.00 | Malvar, Batangas | Available | Like New
+#455 | PS VR2 Kit #545 | VR/AR Gear | PHP 280.00/day | weekly PHP 1700.00 | Batangas City | Available | Good
+#56 | PS VR2 Kit #146 | VR/AR Gear | PHP 285.00/day | weekly PHP 1720.00 | Balete, Batangas | Available | Fair
+#161 | PS VR2 Kit #251 | VR/AR Gear | PHP 285.00/day | weekly PHP 1740.00 | Rosario, Batangas | Available | 
+#266 | PS VR2 Kit #356 | VR/AR Gear | PHP 285.00/day | weekly PHP 1680.00 | Malvar, Batangas | Rented | Like New
+#371 | PS VR2 Kit #461 | VR/AR Gear | PHP 285.00/day | weekly PHP 1700.00 | Batangas City | Rented | Good
+#476 | PS VR2 Kit #566 | VR/AR Gear | PHP 285.00/day | weekly PHP 1720.00 | Balete, Batangas | Available | Fair
+#77 | PS VR2 Kit #167 | VR/AR Gear | PHP 290.00/day | weekly PHP 1740.00 | Rosario, Batangas | Available | 
+#182 | PS VR2 Kit #272 | VR/AR Gear | PHP 290.00/day | weekly PHP 1680.00 | Malvar, Batangas | Available | Like New
+#287 | PS VR2 Kit #377 | VR/AR Gear | PHP 290.00/day | weekly PHP 1700.00 | Batangas City | Available | Good
+#392 | PS VR2 Kit #482 | VR/AR Gear | PHP 290.00/day | weekly PHP 1720.00 | Balete, Batangas | Available | Fair
+#497 | PS VR2 Kit #587 | VR/AR Gear | PHP 290.00/day | weekly PHP 1740.00 | Rosario, Batangas | Rented | 
+#98 | PS VR2 Kit #188 | VR/AR Gear | PHP 295.00/day | weekly PHP 1680.00 | Malvar, Batangas | Available | Like New
+#203 | PS VR2 Kit #293 | VR/AR Gear | PHP 295.00/day | weekly PHP 1700.00 | Batangas City | Available | Good
+#308 | PS VR2 Kit #398 | VR/AR Gear | PHP 295.00/day | weekly PHP 1720.00 | Balete, Batangas | Rented | Fair
+#413 | PS VR2 Kit #503 | VR/AR Gear | PHP 295.00/day | weekly PHP 1740.00 | Rosario, Batangas | Available | 
+#70 | Meta Quest 2 #160 | VR/AR Gear | PHP 300.00/day | weekly PHP 1800.00 | Lipa City, Batangas | Available | Like New
+#175 | Meta Quest 2 #265 | VR/AR Gear | PHP 300.00/day | weekly PHP 1820.00 | Padre Garcia, Batangas | Available | Good
+#280 | Meta Quest 2 #370 | VR/AR Gear | PHP 300.00/day | weekly PHP 1840.00 | San Jose, Batangas | Available | Fair
+#385 | Meta Quest 2 #475 | VR/AR Gear | PHP 300.00/day | weekly PHP 1860.00 | Santo Tomas, Batangas | Available | 
+#490 | Meta Quest 2 #580 | VR/AR Gear | PHP 300.00/day | weekly PHP 1800.00 | Lipa City, Batangas | Available | Like New
+#14 | PS VR2 Kit #104 | VR/AR Gear | PHP 300.00/day | weekly PHP 1680.00 | Malvar, Batangas | Available | Like New
+#119 | PS VR2 Kit #209 | VR/AR Gear | PHP 300.00/day | weekly PHP 1700.00 | Batangas City | Available | Good
+#224 | PS VR2 Kit #314 | VR/AR Gear | PHP 300.00/day | weekly PHP 1720.00 | Balete, Batangas | Available | Fair
+#329 | PS VR2 Kit #419 | VR/AR Gear | PHP 300.00/day | weekly PHP 1740.00 | Rosario, Batangas | Pending | 
+#434 | PS VR2 Kit #524 | VR/AR Gear | PHP 300.00/day | weekly PHP 1680.00 | Malvar, Batangas | Available | Like New
+#91 | Meta Quest 2 #181 | VR/AR Gear | PHP 305.00/day | weekly PHP 1820.00 | Padre Garcia, Batangas | Available | Good
+#196 | Meta Quest 2 #286 | VR/AR Gear | PHP 305.00/day | weekly PHP 1840.00 | San Jose, Batangas | Available | Fair
+#301 | Meta Quest 2 #391 | VR/AR Gear | PHP 305.00/day | weekly PHP 1860.00 | Santo Tomas, Batangas | Available | 
+#406 | Meta Quest 2 #496 | VR/AR Gear | PHP 305.00/day | weekly PHP 1800.00 | Lipa City, Batangas | Available | Like New
+#112 | Meta Quest 2 #202 | VR/AR Gear | PHP 310.00/day | weekly PHP 1840.00 | San Jose, Batangas | Available | Fair
+#217 | Meta Quest 2 #307 | VR/AR Gear | PHP 310.00/day | weekly PHP 1860.00 | Santo Tomas, Batangas | Available | 
+#322 | Meta Quest 2 #412 | VR/AR Gear | PHP 310.00/day | weekly PHP 1800.00 | Lipa City, Batangas | Available | Like New
+#427 | Meta Quest 2 #517 | VR/AR Gear | PHP 310.00/day | weekly PHP 1820.00 | Padre Garcia, Batangas | Available | Good
+#28 | Meta Quest 2 #118 | VR/AR Gear | PHP 315.00/day | weekly PHP 1840.00 | San Jose, Batangas | Pending | Fair
+#133 | Meta Quest 2 #223 | VR/AR Gear | PHP 315.00/day | weekly PHP 1860.00 | Santo Tomas, Batangas | Available | 
+#238 | Meta Quest 2 #328 | VR/AR Gear | PHP 315.00/day | weekly PHP 1800.00 | Lipa City, Batangas | Pending | Like New
+#343 | Meta Quest 2 #433 | VR/AR Gear | PHP 315.00/day | weekly PHP 1820.00 | Padre Garcia, Batangas | Available | Good
+#448 | Meta Quest 2 #538 | VR/AR Gear | PHP 315.00/day | weekly PHP 1840.00 | San Jose, Batangas | Available | Fair
+#49 | Meta Quest 2 #139 | VR/AR Gear | PHP 320.00/day | weekly PHP 1860.00 | Santo Tomas, Batangas | Available | 
+#154 | Meta Quest 2 #244 | VR/AR Gear | PHP 320.00/day | weekly PHP 1800.00 | Lipa City, Batangas | Rented | Like New
+#259 | Meta Quest 2 #349 | VR/AR Gear | PHP 320.00/day | weekly PHP 1820.00 | Padre Garcia, Batangas | Available | Good
+#364 | Meta Quest 2 #454 | VR/AR Gear | PHP 320.00/day | weekly PHP 1840.00 | San Jose, Batangas | Available | Fair
+#469 | Meta Quest 2 #559 | VR/AR Gear | PHP 320.00/day | weekly PHP 1860.00 | Santo Tomas, Batangas | Available | 
+

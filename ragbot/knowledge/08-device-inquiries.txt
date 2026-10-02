@@ -1,0 +1,48 @@
+LipaByte Device Inquiries
+=========================
+
+What Device Inquiries is
+------------------------
+Device Inquiries is a support request feature inside LipaByte.
+Logged-in students can submit help requests about borrowing, listing, accounts, or technical issues.
+
+Where to open it
+----------------
+1. Log in to LipaByte.
+2. Click Inquiries in the top navigation (near Messages and My Activity).
+3. Or open inquiries.php after login.
+
+How to submit an inquiry
+------------------------
+1. Enter your full name and email (often prefilled from your account).
+2. Choose a category:
+   - Borrow Help
+   - Listing Help
+   - Account Help
+   - Technical Issue
+   - Other
+3. Write a short subject.
+4. Write a clear message (at least a short paragraph of detail).
+5. Click Submit inquiry.
+
+Tracking inquiries
+------------------
+- Submitted inquiries appear under Your inquiries.
+- You can filter by status or category.
+- You can sort newest first or oldest first.
+- You can update status (Open, In Progress, Resolved, Closed).
+- You can edit the subject/message.
+- You can delete an inquiry if it is no longer needed.
+
+What Inquiries is not
+---------------------
+- Inquiries is not the same as Messages.
+- Messages is private chat between renter and owner for an approved rental.
+- Inquiries is for general product/support help requests.
+- Inquiries does not replace borrow requests on a listing page.
+
+Important note for the assistant
+--------------------------------
+Explain how students use Inquiries.
+Do not claim you can submit an inquiry for them inside this chat.
+If they need help with a specific rental pickup, tell them to use Messages after approval.

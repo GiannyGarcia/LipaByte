@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Audio gear">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ca8a04"/><stop offset="100%" stop-color="#713f12"/></linearGradient></defs>
+  <rect width="400" height="300" fill="url(#g)"/>
+  <rect x="170" y="70" width="12" height="110" rx="6" fill="#fff" opacity="0.9"/>
+  <ellipse cx="176" cy="185" rx="35" ry="25" fill="#fff" opacity="0.85"/>
+  <text x="200" y="240" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="22" font-weight="700">Audio</text>
+</svg>

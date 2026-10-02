@@ -1,0 +1,34 @@
+LipaByte Listings Snapshot Guide
+================================
+
+Purpose
+-------
+The file 11-listings-snapshot.txt (generated) contains a snapshot of marketplace listings:
+item name, category, daily rate (PHP), location, availability status, and condition.
+
+How the assistant should use it
+-------------------------------
+- Use it to answer questions like:
+  - What laptops are listed?
+  - How much is a Raspberry Pi per day?
+  - Are there devices in Lipa City?
+- Quote only values present in the snapshot.
+- If the user asks for a listing that is not in the snapshot, say the detail is unavailable and suggest opening Marketplace for the latest live catalog.
+- Remind users that prices and availability can change; the snapshot may not be second-by-second live.
+
+What the snapshot does NOT include
+----------------------------------
+- Private renter/owner chats
+- Passwords
+- Payment account numbers
+- Exact personal phone numbers
+- Future unpublished listings
+
+Regenerating the snapshot
+-------------------------
+Developers/admins can regenerate the snapshot with:
+php tools/export_listings_snapshot.php
+or
+php tools/export_listings_snapshot.php --live
+
+Then re-upload the new 11-listings-snapshot.txt to ElevenLabs Knowledge Base.

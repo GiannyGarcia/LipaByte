@@ -1,0 +1,47 @@
+LipaByte Borrowing Workflow
+===========================
+
+Borrow request status flow
+--------------------------
+Pending → Approved → Completed
+A request may also be Declined or Cancelled depending on the action taken.
+
+How a borrower requests a device
+--------------------------------
+1. Log in and open Marketplace.
+2. Open a listing.
+3. Choose start date and end date.
+4. Submit a borrow request.
+5. Wait for the owner to approve or decline.
+6. Track the request in My Activity → Renting.
+
+How an owner handles a request
+------------------------------
+1. Open My Activity → Listings / incoming requests.
+2. Review the borrower's dates and total.
+3. Approve or decline the request.
+4. If approved, a conversation opens in Messages.
+5. After pickup and return are finished, mark the rental as Completed.
+
+What happens when a request is approved
+---------------------------------------
+- The rental status becomes Approved.
+- LipaByte opens a chat for that transaction.
+- Both users receive notifications.
+- A system message with transaction details appears in the chat.
+- Both users can coordinate pickup and return in Messages.
+
+What happens when a rental is completed
+---------------------------------------
+- Only an approved rental can be marked Completed by the owner.
+- Status becomes Completed.
+- Both users are prompted to leave a review.
+- Reviews can be submitted from Messages or My Activity.
+
+Important rules
+---------------
+- Borrowers should only request dates they can actually use.
+- Owners should approve only when the device is available.
+- Pickup and return are arranged between the students.
+- LipaByte helps coordinate the rental; it does not automatically deliver devices.
+- The assistant cannot approve, decline, or complete a rental for the user.

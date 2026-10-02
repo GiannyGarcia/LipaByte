@@ -1,0 +1,4 @@
+# Prevent PHP execution in listing uploads
+<FilesMatch "\.php$">
+    Require all denied
+</FilesMatch>

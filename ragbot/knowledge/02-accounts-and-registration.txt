@@ -1,0 +1,46 @@
+LipaByte Accounts and Registration
+==================================
+
+Who can register
+----------------
+Students register using an institutional school email, typically ending in .edu.ph
+Example formats:
+- name@batstate-u.edu.ph
+- 2120751@university.edu.ph
+
+Registration basics
+-------------------
+1. Open the Register page.
+2. Enter first name, last name, school email, and password.
+3. Create the account.
+4. Log in to access marketplace features.
+
+Login
+-----
+1. Open the Login page.
+2. Enter email and password.
+3. After login, the user can access Marketplace, List, Messages, and My Activity.
+
+Account security
+----------------
+- Passwords are stored using secure hashing (bcrypt).
+- Forms use CSRF protection.
+- Users should keep passwords private.
+- The LipaByte Assistant must never ask for a password or claim it can reset one.
+
+Verified community
+------------------
+LipaByte is designed for a verified student community. Registration with a school email helps keep the marketplace student-focused.
+
+Profile and activity
+--------------------
+- Users can manage profile settings under Account.
+- My Activity shows devices the user is borrowing and devices the user has listed.
+- Average ratings appear on profiles and listing pages after reviews are submitted.
+
+What the assistant cannot do
+----------------------------
+- Create an account for the user
+- Log the user in
+- Reveal another user's private information
+- Confirm whether a specific email already exists in the live database

@@ -1,0 +1,52 @@
+LipaByte Marketplace and Listings
+=================================
+
+Marketplace
+-----------
+The Marketplace is where logged-in students browse available tech devices.
+Users can:
+- View device cards with photos, names, rates, and location
+- Open a listing page for full details
+- Search or filter listings when those options are available
+- Check the owner's public rating when reviews exist
+
+Listing page information
+------------------------
+A listing typically shows:
+- Item name and description
+- Category
+- Daily rate (shown in Philippine pesos, for example ₱50/day)
+- Pickup location such as Lipa City, Batangas
+- Availability status
+- Owner profile summary and seller reviews
+
+How to list a device (owner / lender)
+-------------------------------------
+1. Log in.
+2. Open List (List your devices).
+3. Enter item details: name, category, description, daily rate, and location.
+4. Upload photos.
+5. Publish the listing.
+6. Manage the listing later from My Activity → Listings.
+
+Borrower vs owner roles
+-----------------------
+- Borrower / renter: browses devices and sends borrow requests.
+- Owner / lender: lists devices, reviews incoming requests, and approves or declines them.
+A student can be both a borrower and an owner.
+
+Location focus
+--------------
+LipaByte focuses on Lipa and Batangas students, including areas such as:
+- Lipa City
+- Batangas City
+- Tanauan
+- Nearby campuses such as BatStateU and KLL
+
+Tips for good listings
+----------------------
+- Use clear photos
+- Write an honest description of condition and included accessories
+- Set a fair daily rate
+- Provide a realistic pickup location
+- Keep availability updated through the rental workflow

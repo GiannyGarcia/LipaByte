@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About LipaByte — a peer-to-peer tech rental marketplace for BSIT and tech students in Lipa &amp; Batangas.">
+    <title>About — LipaByte</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="assets/img/lipabyte-logo.png">
+    <link rel="stylesheet" href="assets/css/landing.css?v=20260706">
+    <style>
+      /* Critical About page styles — ensures layout if host/browser serves cached CSS */
+      .landing-about-hero {
+        background: linear-gradient(160deg, #1e3a8a 0%, #0f172a 50%, #1d4ed8 100%);
+        color: #fff;
+        padding: 3.5rem 0 3.75rem;
+      }
+      .landing-about-hero-inner {
+        width: min(100% - 2rem, 760px);
+        margin-inline: auto;
+        text-align: center;
+      }
+      .landing-about-hero h1 {
+        margin: 0 0 1rem;
+        font-size: clamp(1.85rem, 5vw, 2.75rem);
+        line-height: 1.15;
+        color: #fff;
+      }
+      .landing-about-hero p {
+        margin: 0 auto;
+        max-width: 36rem;
+        color: rgba(255, 255, 255, 0.88);
+        font-size: 1.05rem;
+      }
+      .landing-about-hero .landing-hero-badge { color: #fff; }
+    </style>
+</head>
+<body class="landing-page">
+
+<header class="landing-nav">
+    <div class="landing-nav-inner">
+        <a href="index.html" class="landing-brand">
+            <img src="assets/img/lipabyte-logo.png" alt="LipaByte" class="landing-brand-logo" width="38" height="38">
+            <span>LipaByte</span>
+        </a>
+
+        <nav class="landing-nav-links" id="navLinks">
+            <a href="auth/login.php">Marketplace</a>
+            <a href="index.html#features">Features</a>
+            <a href="assistant.html">Assistant</a>
+            <a href="about.html" class="landing-nav-active">About</a>
+        </nav>
+
+        <div class="landing-nav-actions">
+            <a href="auth/login.php" class="landing-btn landing-btn-outline">Login</a>
+            <a href="auth/register.php" class="landing-btn landing-btn-primary">Register</a>
+            <button class="landing-menu-toggle" id="menuToggle" aria-label="Open menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </div>
+</header>
+
+<section class="landing-about-hero">
+    <div class="landing-about-hero-inner">
+        <span class="landing-hero-badge">About LipaByte</span>
+        <h1>Connecting Batangas students through shared tech</h1>
+        <p>LipaByte is a peer-to-peer rental marketplace built for IT and engineering students who need project hardware — without buying everything new.</p>
+    </div>
+</section>
+
+<section class="landing-section">
+    <div class="landing-section-inner landing-about-content">
+        <div class="landing-about-block">
+            <h2>What is LipaByte?</h2>
+            <p>LipaByte is a web application that lets students in Lipa City, Batangas City, and nearby areas <strong>rent</strong> and <strong>lend</strong> tech equipment — Raspberry Pi kits, laptops, GPUs, smartphones for testing, VR gear, cameras, and more.</p>
+            <p>Instead of every student buying expensive gear for a single subject or capstone, LipaByte creates a trusted campus network where owners list idle equipment and renters send date-based requests. Owners approve rentals, coordinate pickup, and build reputation through reviews.</p>
+        </div>
+
+        <div class="landing-about-block">
+            <h2>Why we built it</h2>
+            <p>Project-based courses often require hardware that students use for only a few weeks. Retail prices create a barrier, especially for lower-year students. At the same time, seniors and hobbyists often have kits sitting unused.</p>
+            <p>LipaByte bridges that gap: affordable short-term access for renters, optional income for lenders, and less e-waste across the campus community.</p>
+        </div>
+
+        <div class="landing-features landing-about-highlights">
+            <article class="landing-feature">
+                <div class="landing-feature-icon">🎓</div>
+                <h3>Student-first</h3>
+                <p>Designed around .edu.ph registration and campus pickup workflows in Lipa &amp; Batangas.</p>
+            </article>
+            <article class="landing-feature">
+                <div class="landing-feature-icon">🔁</div>
+                <h3>Rental workflow</h3>
+                <p>Browse, request, approve, track, complete, and review — all in one place.</p>
+            </article>
+            <article class="landing-feature">
+                <div class="landing-feature-icon">🤝</div>
+                <h3>Community trust</h3>
+                <p>Profiles, ratings, and activity history help students rent with confidence.</p>
+            </article>
+        </div>
+    </div>
+</section>
+
+<section class="landing-section landing-section-alt" id="developers">
+    <div class="landing-section-inner">
+        <div class="landing-section-head">
+            <h2>Developers</h2>
+            <p>LipaByte was designed and developed by BSIT students from the University of Batangas — Lipa City campus.</p>
+        </div>
+
+        <div class="landing-team">
+            <article class="landing-team-card">
+                <div class="landing-team-avatar">GG</div>
+                <h3>Gian Neilvin R. Garcia</h3>
+                <p>Developer</p>
+            </article>
+            <article class="landing-team-card">
+                <div class="landing-team-avatar">EG</div>
+                <h3>Eugene Timothy C. Gutierrez</h3>
+                <p>Developer</p>
+            </article>
+            <article class="landing-team-card">
+                <div class="landing-team-avatar">CM</div>
+                <h3>Chriz Kelly F. Mitra</h3>
+                <p>Developer</p>
+            </article>
+        </div>
+
+        <p class="landing-team-footnote">University of Batangas · Lipa City · Bachelor of Science in Information Technology</p>
+    </div>
+</section>
+
+<section class="landing-section">
+    <div class="landing-section-inner">
+        <div class="landing-cta">
+            <h2>Explore the marketplace</h2>
+            <p>Register with your school email and start renting or lending gear today.</p>
+            <div class="landing-hero-actions" style="justify-content:center;">
+                <a href="auth/register.php" class="landing-btn landing-btn-primary">Create Account</a>
+                <a href="auth/login.php" class="landing-btn landing-btn-light">Login</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="landing-footer">
+    <div class="landing-footer-inner">
+        <div class="landing-footer-brand">
+            <strong>LipaByte</strong>
+            <span>Tech rental hub for Lipa &amp; Batangas students</span>
+            <p class="landing-footer-copy">&copy; 2026 LipaByte. All rights reserved.</p>
+        </div>
+        <div class="landing-footer-links">
+            <a href="auth/login.php">Login</a>
+            <a href="assistant.html">Assistant</a>
+            <a href="about.html">About</a>
+        </div>
+    </div>
+</footer>
+
+<script>
+document.getElementById('menuToggle').addEventListener('click', function () {
+    document.getElementById('navLinks').classList.toggle('open');
+});
+</script>
+<script src="assets/js/ragbot-config.js"></script>
+<script src="assets/js/ragbot-widget.js"></script>
+</body>
+</html>

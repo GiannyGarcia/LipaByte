@@ -1,0 +1,47 @@
+LipaByte Frequently Asked Questions
+===================================
+
+Q: What is LipaByte?
+A: LipaByte is a peer-to-peer tech device rental marketplace for students in Lipa and Batangas.
+
+Q: Who is LipaByte for?
+A: It is for students who need short-term project hardware and students who want to list idle devices.
+
+Q: Do I need a school email?
+A: Yes. Registration is designed around institutional / school email addresses such as .edu.ph emails.
+
+Q: How do I borrow a device?
+A: Browse the Marketplace, open a listing, choose dates, send a borrow request, and wait for owner approval.
+
+Q: How do I list my device?
+A: Log in, open List, fill in device details and photos, then publish the listing.
+
+Q: When can I message the other student?
+A: After the owner approves the borrow request. Chat opens in Messages for that transaction.
+
+Q: When can I leave a review?
+A: After the rental is marked Completed. Both renter and owner can leave one review each.
+
+Q: Where do I track my rentals?
+A: Use My Activity. Renting shows devices you requested. Listings shows devices you own and incoming requests.
+
+Q: Does LipaByte deliver the device?
+A: No. Students coordinate pickup and return themselves, usually near campus or an agreed local place.
+
+Q: Is the LipaByte Assistant the same as Messages?
+A: No. Messages is for rental coordination between renter and owner. The Assistant is an AI help guide that explains how LipaByte works and can use knowledge files about features and listing snapshots.
+
+Q: What are Device Inquiries?
+A: Inquiries is where logged-in students submit support requests about borrowing, listing, accounts, or technical issues, then track status in the same page.
+
+Q: Can the Assistant see my private account data?
+A: No. The Assistant only uses the uploaded product knowledge base and listings snapshot. It cannot access live passwords, private chats, or personal rental records.
+
+Q: Can the Assistant tell me current listing prices?
+A: Yes, when those prices appear in the listings snapshot knowledge file. If a listing is missing from the snapshot, check the live Marketplace.
+
+Q: What should I do if the Assistant does not know an answer?
+A: Ask about LipaByte features covered in the help knowledge, or check Marketplace, My Activity, Messages, Inquiries, and About.
+
+Q: Who developed LipaByte?
+A: Gian Neilvin R. Garcia, Eugene Timothy C. Gutierrez, and Chriz Kelly F. Mitra — BSIT students at the University of Batangas Lipa City campus.

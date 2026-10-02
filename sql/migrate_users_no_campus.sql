@@ -1,0 +1,2 @@
+-- Deprecated: use sql/upgrade_schema_v2.sql instead.
+-- That file migrates users (first_name/last_name, no campus) and creates the admin account.

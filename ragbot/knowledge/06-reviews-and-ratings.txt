@@ -1,0 +1,48 @@
+LipaByte Reviews and Ratings
+============================
+
+When reviews are allowed
+------------------------
+Reviews unlock only after a rental is marked Completed.
+
+Who can review whom
+-------------------
+Reviews are two-way and tied to one completed rental:
+- The renter reviews the owner
+- The owner reviews the renter
+Each person may submit only one review per rental.
+
+What a review contains
+----------------------
+- Star rating from 1 to 5
+- Written comment (required, short feedback)
+
+Where to leave a review
+-----------------------
+- My Activity: pending review cards appear for completed rentals not yet reviewed
+- Messages: review form appears in the completed rental conversation
+
+What happens after a review is submitted
+----------------------------------------
+1. The review is saved in the database.
+2. The reviewed user's average rating (avg_rating) is recalculated.
+3. The average rating can appear on listing pages, seller profiles, and account summaries.
+
+Why reviews matter
+------------------
+Reviews build trust in the student community.
+Future borrowers can check an owner's rating before requesting a device.
+Owners can also see feedback about borrowers after completed rentals.
+
+Rules and safeguards
+--------------------
+- Only participants of a completed rental can review that rental.
+- Duplicate reviews for the same user and same rental are blocked.
+- Rating must be between 1 and 5 stars.
+- A short comment is required.
+
+What the assistant cannot do
+----------------------------
+- Submit a review for the user
+- Change someone's rating manually
+- Invent review scores or claim a live user's current rating unless that exact information is present in the knowledge base

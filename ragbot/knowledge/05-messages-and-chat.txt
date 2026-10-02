@@ -1,0 +1,55 @@
+LipaByte Messages and Chat
+==========================
+
+When chat becomes available
+---------------------------
+Messaging opens after a borrow request is Approved.
+Chat remains available for Approved and Completed rentals.
+
+Where to open chat
+------------------
+- Open Messages from the top navigation, or
+- Open chat from My Activity using the Open chat button on an approved or completed rental.
+
+What the chat shows
+-------------------
+- Conversation list of approved/completed rentals
+- Transaction summary: dates, total amount, pickup location
+- Message history
+- Compose box to send messages
+- Review form after the rental is Completed (if the user has not reviewed yet)
+
+System messages
+---------------
+When a borrow is approved, LipaByte posts an automated system message with transaction details such as:
+- Item name
+- Rental dates
+- Total amount
+- Pickup location
+- Renter name
+- Owner name
+
+When a rental is marked complete, LipaByte posts another system message inviting both users to leave a review.
+
+How messaging works technically (simple explanation)
+----------------------------------------------------
+LipaByte uses near real-time polling to refresh messages about every 3 seconds.
+It is not a separate external chat app. Chat is built into the website.
+
+Unread badges
+-------------
+Unread chat counts can appear in navigation so users notice new messages.
+
+Good use of chat
+----------------
+Students should use Messages to:
+- Confirm pickup time and place
+- Confirm accessories included
+- Coordinate return
+- Ask practical questions about the device
+
+Chat limitations
+----------------
+- Chat is for participants of that rental only.
+- The LipaByte Assistant on the Assistant page is different from rental Messages.
+- The assistant cannot read a user's private chat history.

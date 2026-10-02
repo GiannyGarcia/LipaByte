@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="VR gear">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#db2777"/><stop offset="100%" stop-color="#831843"/></linearGradient></defs>
+  <rect width="400" height="300" fill="url(#g)"/>
+  <ellipse cx="200" cy="130" rx="90" ry="55" fill="#fff" opacity="0.9"/>
+  <rect x="130" y="120" width="40" height="30" rx="8" fill="#db2777" opacity="0.35"/>
+  <rect x="230" y="120" width="40" height="30" rx="8" fill="#db2777" opacity="0.35"/>
+  <text x="200" y="240" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="22" font-weight="700">VR / AR Gear</text>
+</svg>

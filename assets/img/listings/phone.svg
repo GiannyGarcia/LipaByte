@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Mobile device">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#4c1d95"/></linearGradient></defs>
+  <rect width="400" height="300" fill="url(#g)"/>
+  <rect x="165" y="60" width="70" height="130" rx="14" fill="#fff" opacity="0.9"/>
+  <circle cx="200" cy="175" r="6" fill="#7c3aed"/>
+  <text x="200" y="240" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="22" font-weight="700">Mobile Testing</text>
+</svg>

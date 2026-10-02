@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="LipaByte Assistant — AI help for the student tech rental marketplace.">
+    <title>Assistant — LipaByte</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="assets/img/lipabyte-logo.png">
+    <link rel="stylesheet" href="assets/css/landing.css?v=20260706">
+    <style>
+      .assistant-hero {
+        background: linear-gradient(160deg, #1e3a8a 0%, #0f172a 55%, #1d4ed8 100%);
+        color: #fff;
+        padding: 3rem 0 2.75rem;
+      }
+      .assistant-hero-inner {
+        width: min(100% - 2rem, 820px);
+        margin-inline: auto;
+        text-align: center;
+      }
+      .assistant-hero h1 {
+        margin: 0 0 .85rem;
+        font-size: clamp(1.85rem, 5vw, 2.6rem);
+        line-height: 1.15;
+        color: #fff;
+      }
+      .assistant-hero p {
+        margin: 0 auto;
+        max-width: 38rem;
+        color: rgba(255,255,255,.9);
+        font-size: 1.05rem;
+      }
+      .assistant-panel {
+        width: min(100% - 2rem, 820px);
+        margin: -1.5rem auto 2.5rem;
+        background: #fff;
+        border: 1px solid #e2e8f0;
+        border-radius: 16px;
+        box-shadow: 0 18px 40px rgba(15, 23, 42, .08);
+        padding: 1.5rem;
+      }
+      .assistant-panel h2 {
+        margin: 0 0 .5rem;
+        font-size: 1.25rem;
+        color: #0f172a;
+      }
+      .assistant-panel p {
+        margin: 0 0 1rem;
+        color: #475569;
+      }
+      .assistant-topics {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: .75rem;
+        margin: 1rem 0 0;
+      }
+      .assistant-topic {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: .85rem .9rem;
+        font-size: .92rem;
+        color: #334155;
+      }
+      .assistant-setup {
+        margin-top: 1rem;
+        padding: 1rem;
+        border-radius: 12px;
+        background: #fff7ed;
+        border: 1px solid #fed7aa;
+        color: #9a3412;
+        font-size: .95rem;
+      }
+      .assistant-setup code {
+        background: rgba(255,255,255,.7);
+        padding: .1rem .35rem;
+        border-radius: 4px;
+      }
+      .assistant-ready {
+        margin-top: 1rem;
+        padding: 1rem;
+        border-radius: 12px;
+        background: #ecfdf5;
+        border: 1px solid #a7f3d0;
+        color: #065f46;
+        font-size: .95rem;
+      }
+      .assistant-flow {
+        width: min(100% - 2rem, 820px);
+        margin: 0 auto 3rem;
+      }
+      .assistant-flow ol {
+        margin: .75rem 0 0;
+        padding-left: 1.2rem;
+        color: #334155;
+      }
+      .assistant-flow li { margin: .35rem 0; }
+    </style>
+</head>
+<body class="landing-page">
+
+<header class="landing-nav">
+    <div class="landing-nav-inner">
+        <a href="index.html" class="landing-brand">
+            <img src="assets/img/lipabyte-logo.png" alt="LipaByte" class="landing-brand-logo" width="38" height="38">
+            <span>LipaByte</span>
+        </a>
+
+        <nav class="landing-nav-links" id="navLinks">
+            <a href="auth/login.php">Marketplace</a>
+            <a href="index.html#features">Features</a>
+            <a href="assistant.html" class="landing-nav-active">Assistant</a>
+            <a href="about.html">About</a>
+        </nav>
+
+        <div class="landing-nav-actions">
+            <a href="auth/login.php" class="landing-btn landing-btn-outline">Login</a>
+            <a href="auth/register.php" class="landing-btn landing-btn-primary">Register</a>
+            <button class="landing-menu-toggle" id="menuToggle" aria-label="Open menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </div>
+</header>
+
+<section class="assistant-hero">
+    <div class="assistant-hero-inner">
+        <span class="landing-hero-badge">AI Assistant · RAG</span>
+        <h1>LipaByte Assistant</h1>
+        <p>Ask how to register, list a device, borrow gear, use Messages, or leave a review. Answers come from the LipaByte knowledge base.</p>
+    </div>
+</section>
+
+<section class="assistant-panel" id="assistantPanel">
+    <h2>Talk to the assistant</h2>
+    <p>Use the ElevenLabs widget to ask product questions by voice or text. This assistant explains LipaByte — it does not replace rental Messages between students.</p>
+
+    <div class="assistant-topics">
+        <div class="assistant-topic">Registration &amp; login</div>
+        <div class="assistant-topic">Marketplace &amp; listing</div>
+        <div class="assistant-topic">Borrow requests</div>
+        <div class="assistant-topic">Messages &amp; reviews</div>
+    </div>
+
+    <div id="assistantSetupNote" class="assistant-setup" hidden>
+        Setup needed: paste your ElevenLabs Agent ID into <code>assets/js/ragbot-config.js</code>, then refresh this page. Follow <code>ragbot/ELEVENLABS_SETUP.md</code>.
+    </div>
+    <div id="assistantReadyNote" class="assistant-ready" hidden>
+        Widget connected. Click the ElevenLabs button to start a conversation.
+    </div>
+</section>
+
+<section class="assistant-flow">
+    <div class="landing-section-head" style="text-align:left; margin-bottom:0;">
+        <h2 style="margin:0 0 .35rem;">How this RAGbot works</h2>
+        <p style="margin:0; color:#64748b;">Ask → Retrieve from knowledge base → Generate answer → Voice/text response</p>
+    </div>
+    <ol>
+        <li>You ask a LipaByte question.</li>
+        <li>ElevenLabs retrieves relevant text from the uploaded knowledge files.</li>
+        <li>The LLM answers using that retrieved context.</li>
+        <li>You hear/see the response in the widget.</li>
+        <li>If the answer is not in the knowledge base, the assistant should say it does not know.</li>
+    </ol>
+</section>
+
+<footer class="landing-footer">
+    <div class="landing-footer-inner">
+        <div class="landing-footer-brand">
+            <strong>LipaByte</strong>
+            <span>Tech rental hub for Lipa &amp; Batangas students</span>
+            <p class="landing-footer-copy">&copy; 2026 LipaByte. All rights reserved.</p>
+        </div>
+        <div class="landing-footer-links">
+            <a href="auth/login.php">Login</a>
+            <a href="assistant.html">Assistant</a>
+            <a href="about.html">About</a>
+        </div>
+    </div>
+</footer>
+
+<script src="assets/js/ragbot-config.js"></script>
+<script src="assets/js/ragbot-widget.js"></script>
+<script>
+document.getElementById('menuToggle').addEventListener('click', function () {
+    document.getElementById('navLinks').classList.toggle('open');
+});
+
+(function () {
+    var setupNote = document.getElementById('assistantSetupNote');
+    var readyNote = document.getElementById('assistantReadyNote');
+
+    function updateNotes(status) {
+        if (!setupNote || !readyNote) return;
+        if (status && status.ready) {
+            setupNote.hidden = true;
+            readyNote.hidden = false;
+        } else {
+            readyNote.hidden = true;
+            setupNote.hidden = false;
+        }
+    }
+
+    updateNotes(window.LIPABYTE_RAGBOT_STATUS);
+    document.addEventListener('lipabyte-ragbot-ready', function (event) {
+        updateNotes(event.detail);
+    });
+})();
+</script>
+</body>
+</html>
